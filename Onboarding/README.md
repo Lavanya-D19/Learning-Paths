@@ -25,10 +25,10 @@ This guide will help you get started with our culture, tools, and workflows.
 - Email  
 - Other tools (e.g., Trello, Notion)  
 
+![Slack Setup](/assets/slack-setup.png)
 
 *(We will add screenshots in `/assets` later.)*
 
----
 
 ## 💬 Communication Guidelines
 - How we collaborate  
