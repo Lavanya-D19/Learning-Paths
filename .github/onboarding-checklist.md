@@ -1,9 +1,9 @@
 ---
-Name: "✅ Onboarding Checklist"
-About: Use this template to track your onboarding progress
+name: "✅ Onboarding Checklist"
+about: Use this template to track your onboarding progress
 title: "Onboarding - [Your Name]"
-Labels: onboarding
-Assignees: ''
+labels: onboarding
+assignees: ''
 ---
 
 # ✅ Onboarding Checklist
