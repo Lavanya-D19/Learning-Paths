@@ -45,9 +45,23 @@ This guide will help you get started with our culture, tools, and workflows.
 ---
 
 ## 🎯 Expectations
-- Roles & responsibilities  
-- Learning goals  
-- Reporting progress  
+
+During your onboarding, here’s what we expect from you:
+
+- ✅ Complete the Onboarding Learning Path (this guide + flow)
+- ✅ Set up all required tools (GitHub, Slack, Email, etc.)
+- ✅ Join your first project discussion
+- ✅ Ask questions whenever you’re stuck (don’t wait too long!)
+- ✅ Share a short introduction about yourself in the Slack #introductions channel
+- ✅ Submit a short reflection: *“What did I learn in my first week?”*
+
+### 📅 Learning Goals
+By the end of Week 1, you should:
+- Understand our company vision and culture
+- Be familiar with tools and accounts
+- Know where to find help
+- Be ready to start contributing to a project
+
 
 ---
 
