@@ -6,16 +6,21 @@ This guide will help you get started with our culture, tools, and workflows.
 ---
 
 ## 📌 Welcome Message & Vision
-*(Add intro message here – placeholder for now)*
+Welcome to Veeruby! 🌟  
+We’re on a mission to build immersive AR/VR and AI experiences that transform how people learn and interact with technology.  
+This onboarding journey will help you understand our culture, our tools, and how we collaborate as one team.
+
 
 ---
 
 ## 🏢 Company Overview
-- Who we are  
-- What we do  
-- Why we do it  
+Veeruby Technologies is an AR/VR innovation lab focused on creating immersive learning and enterprise solutions.  
+- **Who we are** → A passionate team of developers, designers, and innovators.  
+- **What we do** → Build AR/VR training, simulations, and AI-powered solutions.  
+- **Why we do it** → To help businesses and learners embrace the future of immersive technology.  
 
-*(Insert company intro video or PDF here)*
+🎥 Watch our [Veeruby Company Intro Video](https://youtu.be/V2iUpk75usk?si=j3K_idRCfJaTEleo)  
+
 
 ---
 
