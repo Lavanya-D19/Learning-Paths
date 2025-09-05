@@ -81,3 +81,16 @@ Here are some external resources to start with:
 - [Intro to Project Management Tools (Trello)](https://www.youtube.com/watch?v=5XdcRzSxHnc)
 
 *(TODO: Add our own video walkthroughs for tool setup and workflows.)*
+### 📚 Helpful Resources
+- [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
+- [Slack 101: Your Quick Start Guide](https://slack.com/resources/slack-101)
+- [How to Write Good Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Effective Remote Team Communication (YouTube)](https://www.youtube.com/watch?v=DyvVO6j4Jjk)
+- [Intro to Agile Project Management (Atlassian Guide)](https://www.atlassian.com/agile/project-management)
+
+### 📸 Setup Screenshots
+![Slack Setup](/assets/slack-setup.png)  
+![GitHub Setup](/assets/github-setup.png)  
+![Email Setup](/assets/email-setup.png)  
+![Company Intro Video](/assets/company-intro.png)
+
