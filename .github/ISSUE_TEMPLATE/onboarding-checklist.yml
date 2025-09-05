@@ -1,0 +1,50 @@
+name: "✅ Onboarding Checklist"
+description: "Track your onboarding progress step by step"
+title: "Onboarding - [Your Name]"
+labels: ["onboarding"]
+
+body:
+  - type: markdown
+    attributes:
+      value: "## Welcome! 🎉\nThis is your personal onboarding tracker. Tick the boxes as you go."
+
+  - type: checkboxes
+    id: setup
+    attributes:
+      label: "📌 Setup"
+      description: "Complete your initial setup tasks"
+      options:
+        - label: "Read the Welcome Message & Vision"
+        - label: "Watch the Company Intro Video"
+        - label: "Set up GitHub account and join the org"
+        - label: "Set up Slack account and join channels"
+        - label: "Activate company email account"
+
+  - type: checkboxes
+    id: communication
+    attributes:
+      label: "💬 Communication"
+      description: "Get connected with the team"
+      options:
+        - label: "Review communication guidelines"
+        - label: "Introduce yourself in Slack #introductions channel"
+        - label: "Attend your first team meeting"
+
+  - type: checkboxes
+    id: project
+    attributes:
+      label: "📂 Project Access"
+      description: "Get started with projects"
+      options:
+        - label: "Learn GitHub workflow basics (branches, PRs)"
+        - label: "Access your first project repo"
+        - label: "Check task assignment in project tracker"
+
+  - type: checkboxes
+    id: reflection
+    attributes:
+      label: "📝 Reflection"
+      description: "Wrap up your first week"
+      options:
+        - label: "Share 'What I learned in my first week' reflection"
+        - label: "Ask at least one question in #help channel"
