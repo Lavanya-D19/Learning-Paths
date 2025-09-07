@@ -40,3 +40,7 @@ Every new team member follows the same structured training path → ensuring qua
 
 ✅ Start with **Onboarding** and follow the steps in order.  
 Welcome to the journey! 🎉
+
+# Learning Paths
+Test update by Lavanya ✅
+
