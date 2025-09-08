@@ -22,7 +22,7 @@ This onboarding journey will help you understand our culture, our tools, and how
 
 ---
 
-## 🏢 Company Overview
+## 🏢 Company Media
 Veeruby Technologies is an AR/VR innovation lab focused on creating immersive learning and enterprise solutions.  
 - **Who we are** → A passionate team of developers, designers, and innovators.  
 - **What we do** → Build AR/VR training, simulations, and AI-powered solutions.  
@@ -183,12 +183,6 @@ By the end of Week 1, you should:
 |10 | Dussehra                 |                   |       |
 |11 | Deepavali / Diwali       |                   |       |
 |12 | Christmas                |                   |       |
-
----
-
-## 🎞️ Company Media
-- Company Intro (YouTube): https://youtu.be/V2iUpk75usk?si=j3K_idRCfJaTEleo  
-- Mysore Office Video: _add link here_
 
 ---
 
