@@ -193,3 +193,4 @@ By the end of Week 1, you should:
 ![GitHub Setup](./assets/github-setup.png)  
 ![Email Setup](./assets/email-setup.png)  
 ![Company Intro Video](./assets/company-intro.png)
+
