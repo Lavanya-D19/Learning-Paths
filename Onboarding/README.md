@@ -11,7 +11,7 @@ This is the **official onboarding guide**. Always refer here for the latest upda
 
 - This onboarding guide lives in the [Onboarding folder](./) of our GitHub repo.  
 - The **single source of truth** is this file: [README.md](./README.md).  
-- Admin update rules are documented here: [Update_Process.md](./Update_Process.md).  
+- Admin update rules are documented in [ADMIN_Update_Process.md](../ADMIN_Update_Process.md).  
 
 > **NOTE:** Always check this README first — it is the latest and only master copy.
 
@@ -24,7 +24,7 @@ This onboarding journey will help you understand our culture, our tools, and how
 
 ---
 
-## 🏢 Company Media
+## 🏢 Company Overview
 Veeruby Technologies is an AR/VR innovation lab focused on creating immersive learning and enterprise solutions.  
 - **Who we are** → A passionate team of developers, designers, and innovators.  
 - **What we do** → Build AR/VR training, simulations, and AI-powered solutions.  
@@ -189,7 +189,7 @@ By the end of Week 1, you should:
 ---
 
 ## 📸 Setup Screenshots
-![Discord Setup](/assets/discord-setup.png)  
-![GitHub Setup](/assets/github-setup.png)  
-![Email Setup](/assets/email-setup.png)  
-![Company Intro Video](/assets/company-intro.png)
+![Discord Setup](./assets/discord-setup.png)  
+![GitHub Setup](./assets/github-setup.png)  
+![Email Setup](./assets/email-setup.png)  
+![Company Intro Video](./assets/company-intro.png)
