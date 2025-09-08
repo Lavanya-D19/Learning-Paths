@@ -9,6 +9,17 @@ To keep all learning paths consistent, follow these standards when adding or upd
 - Use `.md` files for all content inside respective path folders (Onboarding, AR, VR, AI).
 
 ---
+---
+
+## 📍 Source of Truth
+This is the official **Documentation Standards** guide. Always refer here for the latest updates.
+
+- This guide lives in the `/docs/` folder of our GitHub repo.  
+- The single source of truth is this file: **Documentation_Standards.md**.  
+- Admin update rules are documented in [`ADMIN_Update_Process.md`](./admin/ADMIN_Update_Process.md).  
+- All update activity must be logged in [`ADMIN_Update_Log.md`](./admin/ADMIN_Update_Log.md).  
+
+> **NOTE:** Always check this file first — it is the latest and only master copy for documentation rules.
 
 ## 🖼️ Images, Links, Headings & TODO
 - Place all images in `/assets`.
@@ -24,3 +35,4 @@ To keep all learning paths consistent, follow these standards when adding or upd
   `###` for subsections  
 
 - Mark incomplete content with `(TODO: ...)`.
+
