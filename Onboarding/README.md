@@ -6,12 +6,14 @@ This guide will help you get started with our culture, tools, and workflows.
 
 ---
 
-## 📍 Where to Find
-- This onboarding lives in **/Onboarding/** in our GitHub repo.
-- The **single source of truth** is this file: `/Onboarding/README.md` (always current).
-- Admin updates & rules: see **[/Update_Process.md](/Update_Process.md)**.
+## 📍 Source of Truth
+This is the **official onboarding guide**. Always refer here for the latest updates.
 
-> **NOTE:** Always check this README before asking, it is the latest and only master copy.
+- This onboarding guide lives in the [Onboarding folder](./) of our GitHub repo.  
+- The **single source of truth** is this file: [README.md](./README.md).  
+- Admin update rules are documented here: [Update_Process.md](./Update_Process.md).  
+
+> **NOTE:** Always check this README first — it is the latest and only master copy.
 
 ---
 
