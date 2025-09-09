@@ -5,15 +5,11 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 ---
 
 ## 🚀 Start Here (New Interns)
-- ✅ **Open your Onboarding Checklist** (auto-creates a GitHub Issue):
-  - https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml
+- ✅ **Open your Onboarding Checklist** (auto-creates a GitHub Issue): https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml
 - ✅ **Read:** [Onboarding Guide](Onboarding/README.md)
 - ✅ **Read:** [Policies (rules, timings, holidays)](Onboarding/Policies.md)
 
 ---
-
-## 🚀 Start Here
-...
 
 ## 📚 Learning Paths
 - **AR** → [AR Path](AR/README.md)
@@ -23,9 +19,12 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 ---
 
 ## 🧾 Forms & Check-ins
-- **Onboarding Quiz (Basics):** [Link Here](#)  
-- **Week 1 Progress Form:** [Link Here](#)  
-- **Weekly Feedback Form:** [Link Here](#)  
+
+- **Onboarding Quiz (Basics):** [Take Quiz](https://forms.gle/g5Hyobi3Y8v2GfDQ8)  
+- **Week 1 Progress Form:** [Take Progress Form](https://forms.gle/fjNScekpPzodc4sGA)  
+- **Weekly Feedback Form:** [Take Feedback](https://forms.gle/vNqMzutU8eape6Ga7)  
+
+---
 
 ### 📅 Future Weeks (placeholders)
 - Week 2 Progress → _(to be added)_  
@@ -33,12 +32,13 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 - …  
 - Week 12 Progress → _(to be added)_  
 
+---
+
 ### 📝 Advanced Quizzes (placeholders)
 - AR/VR Path Quiz → _(to be added)_  
 - AI Path Quiz → _(to be added)_  
 - Final 90-Day Completion Quiz → _(to be added)_  
 
----
 
 ## 🔧 Tools We Use
 - **Discord** (team comms)  
