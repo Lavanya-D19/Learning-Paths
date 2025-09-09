@@ -1,8 +1,20 @@
-Version v1.1 — Updated September 2025
+Version v1.2 — Updated September 2025
 # Onboarding Learning Path
 
 Welcome to Veeruby’s Learning Path System 🚀  
 This guide will help you get started with our culture, tools, and workflows.
+
+---
+
+## 🚀 Start Here (New Interns)
+1. **Open your Onboarding Checklist** →  
+   https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml  
+   (This will create your personal issue — update it daily.)
+2. **Read:** [Policies (rules, timings, holidays)](Policies.md)
+3. **Join Discord** and say hello in `#introductions`
+4. **Access tools:** GitHub (this repo), Google Drive, Notion
+5. **Pick your path:** [AR](../AR/README.md) / [VR](../VR/README.md) / [AI](../AI/README.md)
+6. **Create a Day-1 note** in your checklist issue → “Goals, blockers, next steps”
 
 ---
 
@@ -36,7 +48,15 @@ Veeruby Technologies is an AR/VR innovation lab focused on creating immersive le
 - Website: https://veeruby.com  
 - LinkedIn: https://in.linkedin.com/company/veeruby  
 - YouTube: https://www.youtube.com/@veeruby  
-- Office Video (Mysore): _add link here_
+
+---
+
+## 💫 Culture & How We Work
+- **Ownership:** If you see it, you fix it.  
+- **Speed > perfection:** Ship small, iterate.  
+- **Single source of truth:** This repo first.  
+- **Respect time:** Be on time, keep updates crisp.  
+- **Help each other:** Ask early, support teammates.  
 
 ---
 
@@ -171,20 +191,20 @@ By the end of Week 1, you should:
 
 > **NOTE:** Max 12 holidays — HR will publish actual dates yearly.
 
-| # | Holiday Name             | Date (YYYY-MM-DD) | Notes |
-|---|--------------------------|-------------------|-------|
-| 1 | New Year’s / Sankranti   |                   |       |
-| 2 | Republic Day             |                   |       |
-| 3 | Maha Shivratri           |                   |       |
-| 4 | Holi                     |                   |       |
-| 5 | Ugadi / Gudi Padwa       |                   |       |
-| 6 | Eid al-Fitr              |                   |       |
-| 7 | Independence Day         |                   |       |
-| 8 | Ganesh Chaturthi         |                   |       |
-| 9 | Gandhi Jayanti           |                   |       |
-|10 | Dussehra                 |                   |       |
-|11 | Deepavali / Diwali       |                   |       |
-|12 | Christmas                |                   |       |
+| #  | Holiday Name                | Date (YYYY-MM-DD) | Notes |
+|----|-----------------------------|-------------------|-------|
+| 1  | Makara Sankranti / Pongal   |                   | Karnataka harvest festival |
+| 2  | Republic Day                |                   | National holiday |
+| 3  | Maha Shivaratri             |                   | Karnataka temples |
+| 4  | Ugadi (Kannada New Year)    |                   | Major Karnataka festival |
+| 5  | Eid al-Fitr (Ramzan)        |                   | Community festival |
+| 6  | Independence Day            |                   | National holiday |
+| 7  | Ganesha Chaturthi           |                   | Hugely celebrated in Karnataka |
+| 8  | Gandhi Jayanti              |                   | National holiday |
+| 9  | Dasara (Mysore)             |                   | Karnataka’s signature festival |
+| 10 | Deepavali / Diwali          |                   | Pan-India, strong in Karnataka |
+| 11 | Varamahalakshmi Vrata       |                   | Popular Karnataka festival |
+| 12 | Christmas                   |                   | Pan-India festival |
 
 ---
 
@@ -193,4 +213,3 @@ By the end of Week 1, you should:
 ![GitHub Setup](./assets/github-setup.png)  
 ![Email Setup](./assets/email-setup.png)  
 ![Company Intro Video](./assets/company-intro.png)
-
