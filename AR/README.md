@@ -1,48 +1,57 @@
-# AR Learning Path
+# 📱 Augmented Reality (AR) Learning Path
 
-Welcome to the **AR (Augmented Reality) Learning Path** 🚀  
-This guide will introduce you to AR tools, workflows, and projects.  
-By the end of this path, you’ll be able to build and demo your own AR mini-projects using Unity and AR SDKs.
-
----
-
-## 📌 Introduction
-Augmented Reality (AR) blends the digital and physical worlds by overlaying 3D content, animations, and information on top of the real environment.  
-At Veeruby, AR is used to create interactive business solutions, immersive training modules, and engaging learning experiences.  
-
-*(TODO: Add Veeruby-specific AR vision + examples later)*
+Welcome to the **AR Path** 🌟  
+This track guides you through building **AR apps** with Unity, AR Foundation, and Vuforia in **12 weeks**.  
+By the end, you’ll publish a working AR demo project.
 
 ---
 
-## 🛠️ Tools & Setup
-To start building AR apps, install and configure these tools:  
+## 🎯 Beginner (Weeks 1–2)
+**Learning Outcome:** Understand AR basics & set up tools.  
 
-- **Unity Hub + Unity LTS** (recommended: 2022.3.x LTS)  
-- **Vuforia Engine** or **AR Foundation Package** (depending on project type)  
-- **Mobile Device Setup** (Android / iOS with ARCore or ARKit support)  
+📌 **Topics Covered:**  
+- ✅ What is AR? (use cases & intro video)  
+- ✅ Unity installation & AR setup  
+- ✅ Build your first ImageTarget app  
 
-*(TODO: Add step-by-step setup screenshots in `/assets`)*
+🛠️ **Mini Task:** Create a simple AR marker demo (show a 3D cube on a printed image).  
 
----
-
-## 📂 Projects & Assignments
-You’ll apply your learning by completing small AR projects:  
-
-1. **Hello AR** → Display a 3D object on an image marker.  
-2. **AR Business Card** → Add interactive buttons (LinkedIn, Email, Call) on a scanned business card.  
-3. **AR Demo Project** → Create a small AR scene relevant to your chosen domain (education, marketing, etc.).  
-
-*(TODO: Add Veeruby AR project templates here)*
+📚 **Resources:**  
+- [Unity Learn (AR)](https://learn.unity.com/)  
+- [Getting Started with Vuforia](https://library.vuforia.com/)  
 
 ---
 
-## 📚 Reference Materials
-Here are some essential AR resources to explore:  
+## 🚀 Intermediate (Weeks 3–6)
+**Learning Outcome:** Build interactive AR experiences.  
 
-- [Unity AR Foundation Docs](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@latest)  
-- [Vuforia Engine Developer Portal](https://developer.vuforia.com/)  
-- [Unity Learn: Introduction to AR Development](https://learn.unity.com/pathway/augmented-reality)  
-- [ARCore Developer Guide (Google)](https://developers.google.com/ar)  
-- [ARKit Overview (Apple)](https://developer.apple.com/augmented-reality/)  
+📌 **Topics Covered:**  
+- ✅ Vuforia & AR Foundation workflows  
+- ✅ Anchors & surface detection  
+- ✅ AR UI/UX patterns (buttons, panels)  
 
-*(TODO: Add Veeruby’s internal AR slides/tutorials here)*
+🛠️ **Project:** AR Business Card → with LinkedIn, Call, and Email buttons.  
+
+📚 **Resources:**  
+- [AR Foundation Docs](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@latest)  
+- [Unity UI Toolkit](https://docs.unity3d.com/Manual/UIElements.html)  
+
+---
+
+## 🏆 Advanced (Weeks 7–12)
+**Learning Outcome:** Optimize and deploy AR projects.  
+
+📌 **Topics Covered:**  
+- ✅ Offline AR experiences (anchor caching)  
+- ✅ Performance optimization (scaling assets)  
+- ✅ Building for Android/iOS  
+
+🛠️ **Capstone Project:** A polished AR demo app (e.g., AR tour guide or AR showroom).  
+
+📚 **Resources:**  
+- [Unity Optimization Guide](https://docs.unity3d.com/Manual/OptimizingGraphicsPerformance.html)  
+- [ARCore Developer Guide](https://developers.google.com/ar)  
+
+---
+
+💡 **Tip:** Always test on a **real device** — Unity Play Mode won’t show true AR performance.
