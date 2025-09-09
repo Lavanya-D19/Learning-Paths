@@ -12,12 +12,31 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 
 ---
 
+## 🚀 Start Here
+...
+
 ## 📚 Learning Paths
 - **AR** → [AR Path](AR/README.md)
 - **VR** → [VR Path](VR/README.md)
 - **AI/ML** → [AI Path](AI/README.md)
 
-> Each path is structured **Beginner → Intermediate → Advanced** with videos, docs, and tasks.
+---
+
+## 🧾 Forms & Check-ins
+- **Onboarding Quiz (Basics):** [Link Here](#)  
+- **Week 1 Progress Form:** [Link Here](#)  
+- **Weekly Feedback Form:** [Link Here](#)  
+
+### 📅 Future Weeks (placeholders)
+- Week 2 Progress → _(to be added)_  
+- Week 3 Progress → _(to be added)_  
+- …  
+- Week 12 Progress → _(to be added)_  
+
+### 📝 Advanced Quizzes (placeholders)
+- AR/VR Path Quiz → _(to be added)_  
+- AI Path Quiz → _(to be added)_  
+- Final 90-Day Completion Quiz → _(to be added)_  
 
 ---
 
@@ -49,3 +68,4 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 ## 🧪 Quality Check (Today)
 - Open each link above — confirm no 404.
 - Mobile view: confirm sections read cleanly.
+
