@@ -1,46 +1,51 @@
-# 🎓 Veeruby Learning Paths
+# Veeruby Learning Paths (LMS) — Dashboard
 
-Welcome to the **Veeruby Learning Management System (LMS)** 🚀  
-This repo provides structured learning paths for interns, employees, and collaborators.  
-Each path is a step-by-step guide with resources, checklists, and examples.
+Welcome! This repo is the **single source of truth** for onboarding and learning at Veeruby.
 
 ---
 
-## 📂 Available Learning Paths
-
-- 📘 [Onboarding](./Onboarding/README.md)  
-  Start here! Learn about our company, tools, communication, and workflows.  
-
-- 🕶️ [AR Learning Path](./AR/README.md)  
-  Explore Augmented Reality tools, Unity + Vuforia/AR Foundation, and build your first AR project.  
-
-- 🎮 [VR Learning Path](./VR/README.md)  
-  Dive into Virtual Reality, set up XR Toolkit, connect VR headsets, and create immersive demos.  
-
-- 🤖 [AI Learning Path](./AI/README.md)  
-  Learn AI basics, explore Python + Jupyter, and try hands-on machine learning projects.  
+## 🚀 Start Here (New Interns)
+- ✅ **Open your Onboarding Checklist** (auto-creates a GitHub Issue):
+  - https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml
+- ✅ **Read:** [Onboarding Guide](Onboarding/README.md)
+- ✅ **Read:** [Policies (rules, timings, holidays)](Onboarding/Policies.md)
 
 ---
 
-## 🛠️ Standards & Assets
+## 📚 Learning Paths
+- **AR** → [AR Path](AR/README.md)
+- **VR** → [VR Path](VR/README.md)
+- **AI/ML** → [AI Path](AI/README.md)
 
-- 📑 [Documentation Standards](./Documentation-Standards.md)  
-  Guidelines to keep content consistent.  
-- 📂 [Assets Folder](./assets/)  
-  Screenshots, diagrams, and tutorial images.  
-
----
-
-## 🌟 Vision
-
-Our goal is to provide **consistent, scalable, and reusable learning** for everyone at Veeruby.  
-Every new team member follows the same structured training path → ensuring quality and growth.  
+> Each path is structured **Beginner → Intermediate → Advanced** with videos, docs, and tasks.
 
 ---
 
-✅ Start with **Onboarding** and follow the steps in order.  
-Welcome to the journey! 🎉
+## 🔧 Tools We Use
+- **Discord** (team comms)  
+- **GitHub** (source of truth)  
+- **Google Drive** (assets, forms)  
+- **Notion** (optional: documentation/wiki)
 
-# Learning Paths
-Test update by Lavanya ✅
+---
 
+## 🗂 Repo Map
+
+/AI
+/AR
+/VR
+/Onboarding
+/assets
+/.github/ISSUE_TEMPLATE
+---
+
+## 🔁 Update Rules (Admins)
+- Always update this README first if navigation changes.
+- Log admin updates in: [ADMIN_Update_Log.md](ADMIN_Update_Log.md)  
+- See process: [ADMIN_Update_Process.md](ADMIN_Update_Process.md)
+
+---
+
+## 🧪 Quality Check (Today)
+- Open each link above — confirm no 404.
+- Mobile view: confirm sections read cleanly.
