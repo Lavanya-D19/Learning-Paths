@@ -1,49 +1,57 @@
-# VR Learning Path
+# 🎮 Virtual Reality (VR) Learning Path
 
-Welcome to the **VR (Virtual Reality) Learning Path** 🎮  
-This guide will introduce you to VR tools, workflows, and projects.  
-By the end of this path, you’ll be able to design and build immersive VR demos using Unity and the XR Interaction Toolkit.
-
----
-
-## 📌 Introduction
-Virtual Reality (VR) creates fully immersive digital environments where users can interact using headsets and controllers.  
-At Veeruby, VR is applied in training simulations, interactive learning, gaming, and enterprise solutions for industries like healthcare and education.  
-
-*(TODO: Add Veeruby-specific VR vision + examples later)*
+Welcome to the **VR Path** 🌍  
+In this track, you’ll learn to create immersive VR experiences with Unity & XR plugins in **12 weeks**.  
+By the end, you’ll demo a VR project ready for real users.
 
 ---
 
-## 🛠️ Tools & Setup
-To begin VR development, you’ll need:  
+## 🎯 Beginner (Weeks 1–2)
+**Learning Outcome:** Explore VR basics and setup Unity XR.  
 
-- **Unity Hub + Unity LTS** (recommended: 2022.3.x LTS)  
-- **XR Interaction Toolkit** (for VR interactions like grab, teleport, UI)  
-- **VR Headset Setup** (Meta Quest, HTC Vive, Pico, or similar)  
-- **Optional:** SteamVR or OpenXR depending on your device  
+📌 **Topics Covered:**  
+- ✅ What is VR? (concepts & safety)  
+- ✅ Unity XR Plugin setup  
+- ✅ Basic locomotion & VR camera rig  
 
-*(TODO: Add step-by-step setup screenshots in `/assets`)*
+🛠️ **Mini Task:** Load a VR scene where you can move around.  
 
----
-
-## 📂 Projects & Assignments
-You’ll practice VR workflows by building small projects:  
-
-1. **Hello VR** → Create a basic VR scene with teleportation.  
-2. **VR Interaction Demo** → Add grabbable objects and interactive buttons.  
-3. **Mini VR Experience** → Build a themed demo (education, training, or entertainment).  
-
-*(TODO: Add Veeruby VR templates or project briefs here)*
+📚 **Resources:**  
+- [Unity XR Plugin Docs](https://docs.unity3d.com/Manual/XRPluginArchitecture.html)  
+- [Oculus VR Introduction](https://developer.oculus.com/)  
 
 ---
 
-## 📚 Reference Materials
-Here are some key VR learning resources:  
+## 🚀 Intermediate (Weeks 3–6)
+**Learning Outcome:** Build interactive VR experiences.  
 
-- [Unity XR Toolkit Docs](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest)  
-- [Unity Learn: Getting Started with VR](https://learn.unity.com/)  
+📌 **Topics Covered:**  
+- ✅ XR Interaction Toolkit (grabbing, teleporting)  
+- ✅ VR UI (menus, HUDs, buttons)  
+- ✅ Performance optimization basics  
+
+🛠️ **Project:** Create a VR mini-game → pick up objects, score points, and restart.  
+
+📚 **Resources:**  
+- [XR Interaction Toolkit Docs](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest)  
 - [OpenXR Overview](https://www.khronos.org/openxr/)  
-- [SteamVR Developer Resources](https://developer.valvesoftware.com/wiki/SteamVR)  
-- [Oculus Developer Documentation](https://developer.oculus.com/)  
 
-*(TODO: Add Veeruby’s internal VR tutorials here)*
+---
+
+## 🏆 Advanced (Weeks 7–12)
+**Learning Outcome:** Build multiplayer VR & optimize for deployment.  
+
+📌 **Topics Covered:**  
+- ✅ Multiplayer basics (Photon / Netcode for Unity)  
+- ✅ VR analytics & playtesting  
+- ✅ Building & packaging VR apps  
+
+🛠️ **Capstone Project:** A polished VR multiplayer or simulation experience.  
+
+📚 **Resources:**  
+- [Photon Unity Networking](https://www.photonengine.com/pun)  
+- [Unity Build Settings Guide](https://docs.unity3d.com/Manual/BuildSettings.html)  
+
+---
+
+💡 **Tip:** Comfort matters in VR — always aim for **72+ FPS** to avoid motion sickness.
