@@ -209,7 +209,8 @@ By the end of Week 1, you should:
 ---
 
 ## 📸 Setup Screenshots
-![Discord Setup](./assets/discord-setup.png)  
-![GitHub Setup](./assets/github-setup.png)  
-![Email Setup](./assets/email-setup.png)  
-![Company Intro Video](./assets/company-intro.png)
+![Discord Setup](../assets/discord-setup.png)  
+![GitHub Setup](../assets/github-setup.png)  
+![Email Setup](../assets/email-setup.png)  
+![Company Intro Video](../assets/company-intro.png)
+
