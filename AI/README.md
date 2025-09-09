@@ -1,49 +1,58 @@
-# AI Learning Path
+# 🤖 AI / Machine Learning Learning Path
 
-Welcome to the **AI Learning Path** 🤖  
-This guide will introduce you to AI fundamentals, tools, and applications.  
-By the end of this path, you’ll be able to experiment with machine learning models and build simple AI-powered applications.
-
----
-
-## 📌 Introduction
-Artificial Intelligence (AI) enables machines to perform tasks that usually require human intelligence — such as understanding language, recognizing images, or making predictions.  
-At Veeruby, AI is integrated into AR/VR experiences for intelligent interactions, data analysis, and adaptive learning.  
-
-*(TODO: Add Veeruby-specific AI vision + project examples later)*
+Welcome to the **AI/ML Path** 🚀  
+This track transforms you from beginner to advanced ML practitioner in **12 weeks**.  
+By the end, you’ll build and deploy real ML models and understand how AI is applied in business.
 
 ---
 
-## 🛠️ Tools & Setup
-To get started with AI development, install and configure:  
+## 🎯 Beginner (Weeks 1–2)
+**Learning Outcome:** Get comfortable with Python & ML basics.  
 
-- **Python 3.10+** (programming language for AI/ML)  
-- **Jupyter Notebook** (interactive coding environment)  
-- **OpenAI API / Hugging Face Transformers** (for LLMs, NLP, and generative AI)  
-- **Optional:** Google Colab (cloud-based notebook environment, no setup required)  
+📌 **Topics Covered:**  
+- ✅ Python setup & Jupyter Notebooks  
+- ✅ Intro to Machine Learning concepts  
+- ✅ Exploratory Data Analysis (EDA)  
 
-*(TODO: Add screenshots of installation and API key setup in `/assets`)*
+🛠️ **Mini Task:** Train a simple linear regression model (e.g., predict house prices).  
 
----
-
-## 📂 Projects & Assignments
-Practice your skills with beginner-friendly projects:  
-
-1. **Hello AI** → Run a simple “text generation” script using OpenAI API.  
-2. **Sentiment Analysis App** → Build a notebook that classifies text as Positive/Negative.  
-3. **Mini AI Demo** → Use Hugging Face to load a pre-trained model (e.g., for Q&A or summarization).  
-
-*(TODO: Add Veeruby-specific AI mini-projects later, like AI-powered AR/VR use cases)*
+📚 **Resources:**  
+- [Learn Python](https://www.learnpython.org/)  
+- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)  
 
 ---
 
-## 📚 Reference Materials
-Here are some key AI learning resources:  
+## 🚀 Intermediate (Weeks 3–6)
+**Learning Outcome:** Build small ML applications & deploy them.  
 
-- [Intro to Machine Learning (Google)](https://developers.google.com/machine-learning/crash-course)  
-- [Hugging Face Course](https://huggingface.co/course/chapter1)  
-- [OpenAI API Documentation](https://platform.openai.com/docs/)  
-- [DeepLearning.AI Free AI Courses](https://www.deeplearning.ai/short-courses/)  
-- [fast.ai Practical Deep Learning](https://course.fast.ai/)  
+📌 **Topics Covered:**  
+- ✅ Data cleaning & feature engineering  
+- ✅ Classification & Regression models  
+- ✅ Model evaluation (accuracy, precision, recall)  
+- ✅ Serving ML models via APIs  
 
-*(TODO: Add Veeruby’s internal AI slides and project guides here)*
+🛠️ **Project:** Build a classification model (e.g., spam vs. not-spam) and deploy it with FastAPI.  
+
+📚 **Resources:**  
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/)  
+- [FastAPI Docs](https://fastapi.tiangolo.com/)  
+
+---
+
+## 🏆 Advanced (Weeks 7–12)
+**Learning Outcome:** Learn to scale ML and explore AI ethics.  
+
+📌 **Topics Covered:**  
+- ✅ Model monitoring & optimization  
+- ✅ Handling edge cases (imbalanced data, overfitting)  
+- ✅ AI ethics, fairness & bias  
+
+🛠️ **Capstone Project:** End-to-end ML pipeline → data → training → serving → monitoring.  
+
+📚 **Resources:**  
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)  
+- [Responsible AI Principles](https://ai.google/responsibilities/responsible-ai-practices/)  
+
+---
+
+💡 **Tip:** Share your weekly progress in your **Onboarding Checklist Issue**. Consistency matters more than speed.
