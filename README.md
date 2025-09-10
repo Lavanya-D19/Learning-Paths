@@ -48,6 +48,14 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 
 ---
 
+## 📚 Learning Paths
+- **AR** → LearningPaths/README.md#ar
+- **VR** → LearningPaths/README.md#vr
+- **AI/ML** → LearningPaths/README.md#aiml
+- **All Paths** → LearningPaths/README.md
+  
+---
+
 ## 🗂 Repo Map
 
 /AI
@@ -56,6 +64,7 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 /Onboarding
 /assets
 /.github/ISSUE_TEMPLATE
+
 ---
 
 ## 🔁 Update Rules (Admins)
@@ -68,4 +77,5 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 ## 🧪 Quality Check (Today)
 - Open each link above — confirm no 404.
 - Mobile view: confirm sections read cleanly.
+
 
