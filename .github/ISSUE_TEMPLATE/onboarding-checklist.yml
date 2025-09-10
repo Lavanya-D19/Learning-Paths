@@ -1,12 +1,44 @@
-name: "Onboarding Checklist"
-description: "Track your onboarding progress step by step"
+name: Onboarding Checklist
+description: Personal onboarding tracker for new interns
 title: "Onboarding - [Your Name]"
-labels: ["onboarding"]
+labels: ["onboarding","intern"]
+assignees:
+  - Lavanya-D19   # ← change to the mentor/reviewer GitHub username if needed
 
 body:
   - type: markdown
     attributes:
-      value: "## Welcome! 🎉\nThis is your personal onboarding tracker. Tick the boxes as you go."
+      value: |
+        Welcome! 🎉 This is your personal onboarding tracker. Tick boxes as you go.
+        Helpful links: [Learning Paths](../LearningPaths/README.md) · [Policies](../Onboarding/Policies.md)
+
+  - type: dropdown
+    id: primary_path
+    attributes:
+      label: "🎯 Primary Path"
+      description: "Choose your main learning path."
+      options:
+        - AR
+        - VR
+        - AI/ML
+    validations:
+      required: true
+
+  - type: input
+    id: quiz_url
+    attributes:
+      label: "✅ Quiz link for your path"
+      description: "Paste the Google Form URL you will use each week."
+      placeholder: "https://forms.gle/..."
+    validations:
+      required: false
+
+  - type: input
+    id: start_date
+    attributes:
+      label: "📅 Start date"
+      description: "DD/MM/YYYY"
+      placeholder: "10/09/2025"
 
   - type: checkboxes
     id: setup
@@ -17,7 +49,7 @@ body:
         - label: "Read the Welcome Message & Vision"
         - label: "Watch the Company Intro Video"
         - label: "Set up GitHub account and join the org"
-        - label: "Set up Slack account and join channels"
+        - label: "Set up **Discord** account and join channels"
         - label: "Activate company email account"
 
   - type: checkboxes
@@ -27,7 +59,7 @@ body:
       description: "Get connected with the team"
       options:
         - label: "Review communication guidelines"
-        - label: "Introduce yourself in Slack #introductions channel"
+        - label: "Introduce yourself in **Discord** #introductions channel"
         - label: "Attend your first team meeting"
 
   - type: checkboxes
