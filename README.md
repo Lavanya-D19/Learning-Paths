@@ -5,9 +5,12 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 ---
 
 ## 🚀 Start Here (New Interns)
+
 - ✅ **Open your Onboarding Checklist** (auto-creates a GitHub Issue): https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml
-- ✅ **Read:** [Onboarding Guide](Onboarding/README.md)
-- ✅ **Read:** [Policies (rules, timings, holidays)](Onboarding/Policies.md)
+- 📚 **Learning Paths (AR · VR · AI/ML)** → [LearningPaths/README.md](LearningPaths/README.md)
+- 📜 **Policies** → [Onboarding/Policies.md](Onboarding/Policies.md)
+- ✅ **Quiz** → https://YOUR_QUIZ_FORM_URL
+
 
 ---
 
@@ -77,5 +80,6 @@ Welcome! This repo is the **single source of truth** for onboarding and learning
 ## 🧪 Quality Check (Today)
 - Open each link above — confirm no 404.
 - Mobile view: confirm sections read cleanly.
+
 
 
