@@ -4,6 +4,11 @@
   "timeout": "10s",
   "ignorePatterns": [
     { "pattern": "^mailto:" },
-    { "pattern": "forms.gle" }
+    { "pattern": "forms.gle" },
+    { "pattern": "linkedin.com" },
+    { "pattern": "discord.com" },
+    { "pattern": "support.discord.com" },
+    { "pattern": "tensorflow.org" },
+    { "pattern": "veeruby.com" }
   ]
 }
