@@ -1,7 +1,7 @@
 # 📚 Learning Paths (AR · VR · AI/ML) — v1.0
 
-Welcome! This folder contains structured **learning paths** for interns and team members at Veeruby.  
-Each path is divided into **Beginner → Intermediate → Advanced** stages with resources and tasks.
+Welcome! This folder contains structured learning paths for **AR, VR, and AI/ML**.  
+Each path is designed to guide interns from beginner → intermediate → advanced level in 12 weeks.
 
 ---
 
@@ -9,14 +9,12 @@ Each path is divided into **Beginner → Intermediate → Advanced** stages with
 
 ### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced
 
-(Placeholders — add tutorials for Unity, AR Foundation, and Vuforia)
+(Placeholders — add tutorials for AR here…)
 
 ### 📋 Submissions
 
-Interns should submit:
-- ✅ Weekly Progress (via form)  
-- ✅ Mini-project demos  
-- ✅ Final AR Capstone project  
+- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).
+- Add project/demo links to your **Onboarding Checklist Issue**.
 
 ---
 
@@ -24,14 +22,12 @@ Interns should submit:
 
 ### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced
 
-(Placeholders — add tutorials for Unity VR, interactions, and optimization)
+(Placeholders — add tutorials for VR here…)
 
 ### 📋 Submissions
 
-Interns should submit:
-- ✅ Weekly Progress (via form)  
-- ✅ VR scene prototypes  
-- ✅ Final VR Capstone project  
+- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).
+- Add project/demo links to your **Onboarding Checklist Issue**.
 
 ---
 
@@ -39,11 +35,9 @@ Interns should submit:
 
 ### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced
 
-(Placeholders — add tutorials for Python, ML models, deployment, and ethics)
+(Placeholders — add tutorials for AI/ML here…)
 
 ### 📋 Submissions
 
-Interns should submit:
-- ✅ Weekly Progress (via form)  
-- ✅ Mini-ML models  
-- ✅ Final AI/ML Capstone project  
+- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).
+- Add project/demo links to your **Onboarding Checklist Issue**.
