@@ -1,44 +1,13 @@
 name: Onboarding Checklist
-description: Personal onboarding tracker for new interns
+description: Track your onboarding progress step by step
 title: "Onboarding - [Your Name]"
-labels: ["onboarding","intern"]
-assignees:
-  - Lavanya-D19   # ← change to the mentor/reviewer GitHub username if needed
-
+labels: ["onboarding"]
 body:
   - type: markdown
     attributes:
       value: |
-        Welcome! 🎉 This is your personal onboarding tracker. Tick boxes as you go.
-        Helpful links: [Learning Paths](../LearningPaths/README.md) · [Policies](../Onboarding/Policies.md)
-
-  - type: dropdown
-    id: primary_path
-    attributes:
-      label: "🎯 Primary Path"
-      description: "Choose your main learning path."
-      options:
-        - AR
-        - VR
-        - AI/ML
-    validations:
-      required: true
-
-  - type: input
-    id: quiz_url
-    attributes:
-      label: "✅ Quiz link for your path"
-      description: "Paste the Google Form URL you will use each week."
-      placeholder: "https://forms.gle/..."
-    validations:
-      required: false
-
-  - type: input
-    id: start_date
-    attributes:
-      label: "📅 Start date"
-      description: "DD/MM/YYYY"
-      placeholder: "10/09/2025"
+        ## Welcome! 🎉
+        This is your personal onboarding tracker. Tick the boxes as you go.
 
   - type: checkboxes
     id: setup
@@ -47,36 +16,24 @@ body:
       description: "Complete your initial setup tasks"
       options:
         - label: "Read the Welcome Message & Vision"
-        - label: "Watch the Company Intro Video"
-        - label: "Set up GitHub account and join the org"
-        - label: "Set up **Discord** account and join channels"
-        - label: "Activate company email account"
+        - label: "Watch the Company Intro video"
+        - label: "Join Discord & Introduce yourself"
+        - label: "Create GitHub account & star this repo"
+        - label: "Set up VS Code + extensions"
 
   - type: checkboxes
-    id: communication
+    id: lms
     attributes:
-      label: "💬 Communication"
-      description: "Get connected with the team"
+      label: "📚 LMS Basics"
       options:
-        - label: "Review communication guidelines"
-        - label: "Introduce yourself in **Discord** #introductions channel"
-        - label: "Attend your first team meeting"
+        - label: "Open ‘How to Use ChatGPT & Copilot’ guide"
+        - label: "Submit Week 1: Weekly Progress form"
+        - label: "Complete Module 1 Quiz"
+        - label: "Read Policies (rules, timings, holidays)"
 
-  - type: checkboxes
-    id: project
+  - type: textarea
+    id: blockers
     attributes:
-      label: "📂 Project Access"
-      description: "Get started with projects"
-      options:
-        - label: "Learn GitHub workflow basics (branches, PRs)"
-        - label: "Access your first project repo"
-        - label: "Check task assignment in project tracker"
-
-  - type: checkboxes
-    id: reflection
-    attributes:
-      label: "📝 Reflection"
-      description: "Wrap up your first week"
-      options:
-        - label: "Share 'What I learned in my first week' reflection"
-        - label: "Ask at least one question in #help channel"
+      label: "Blockers / Questions"
+      description: "Anything slowing you down?"
+      placeholder: "List blockers here"
