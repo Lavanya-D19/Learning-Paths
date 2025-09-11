@@ -1,36 +1,49 @@
-mkdir -p LearningPaths
-cat > LearningPaths/README.md <<'MD'
 # 📚 Learning Paths (AR · VR · AI/ML) — v1.0
-This single page is the source of truth for all paths. No duplicates.
 
-**Quick links:** [AR](#ar) · [VR](#vr) · [AI/ML](#aiml)
+Welcome! This folder contains structured **learning paths** for interns and team members at Veeruby.  
+Each path is divided into **Beginner → Intermediate → Advanced** stages with resources and tasks.
 
 ---
 
 ## AR
-**Outcome (Week 12):** Mobile AR demo + 2–3 min video + README.
+
 ### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced
-*(Placeholders — add tutorials later.)*
+
+(Placeholders — add tutorials for Unity, AR Foundation, and Vuforia)
+
 ### 📋 Submissions
-- ✅ **Quiz (AR):** https://YOUR_AR_QUIZ_FORM_URL
+
+Interns should submit:
+- ✅ Weekly Progress (via form)  
+- ✅ Mini-project demos  
+- ✅ Final AR Capstone project  
 
 ---
 
 ## VR
-**Outcome (Week 12):** Mini VR scene/game + short video + README.
+
 ### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced
-*(Placeholders — add tutorials later.)*
+
+(Placeholders — add tutorials for Unity VR, interactions, and optimization)
+
 ### 📋 Submissions
-- ✅ **Quiz (VR):** https://YOUR_VR_QUIZ_FORM_URL
+
+Interns should submit:
+- ✅ Weekly Progress (via form)  
+- ✅ VR scene prototypes  
+- ✅ Final VR Capstone project  
 
 ---
 
 ## AI/ML
-**Outcome (Week 12):** Deployed mini-app (Streamlit/FastAPI) + README.
+
 ### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced
-*(Placeholders — add tutorials later.)*
+
+(Placeholders — add tutorials for Python, ML models, deployment, and ethics)
+
 ### 📋 Submissions
-- ✅ **Quiz (AI/ML):** https://YOUR_AI_QUIZ_FORM_URL
-MD
-git add LearningPaths/README.md
-git commit -m "docs(paths): add single-file Learning Paths (AR/VR/AI-ML)"
+
+Interns should submit:
+- ✅ Weekly Progress (via form)  
+- ✅ Mini-ML models  
+- ✅ Final AI/ML Capstone project  
