@@ -68,18 +68,15 @@ Veeruby Technologies is an AR/VR innovation lab focused on creating immersive le
    - Set display name: `Full Name | Team`.
    - Join: `#announcements`, `#introductions`, `#help`, and your project channel.
    - Enable notifications for @mentions.
-   - Screenshot: `/assets/discord-setup.png`
 
 2) **GitHub**
    - Share your GitHub username with HR to receive org access.
    - Enable 2FA.
    - Clone project repos you’re assigned to.
-   - Screenshot: `/assets/github-setup.png`
 
 3) **Email**
    - Use personal/professional email temporarily.
    - When issued, add your official email to Discord & GitHub.
-   - Screenshot: `/assets/email-setup.png`
 
 4) **Notion (project/tasks/wiki)**
    - Accept workspace invite from HR.
@@ -243,6 +240,7 @@ Use this guide to decide what to work on first and how to stay on track.
 ![GitHub Setup](../assets/github-setup.png)  
 ![Email Setup](../assets/email-setup.png)  
 ![Company Intro Video](../assets/company-intro.png)
+
 
 
 
