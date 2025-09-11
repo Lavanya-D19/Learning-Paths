@@ -12,7 +12,6 @@ Welcome! This is the **single source of truth** for onboarding and learning.
 - **AR** → `AR/README.md`
 - **VR** → `VR/README.md`
 - **AI/ML** → `AI/README.md`
-- **Business/Operations** → `Business/README.md`
 
 ## 📝 Forms (embedded)
 - 🧪 **Quiz Form** → `Forms/Quiz.md`
@@ -27,3 +26,4 @@ Track milestones week-by-week → `Onboarding/Intern_90_Day_Checklist.md`
 - Monthly admin log → `ADMIN_Update_Log.md`
 
 > **Tip:** All links are relative; keep paths stable to avoid 404s.
+
