@@ -1,7 +1,7 @@
 # 📚 Learning Paths (AR · VR · AI/ML) — v1.0
 
 Welcome! This folder contains structured learning paths for **AR, VR, and AI/ML**.  
-Each path is designed to guide interns from beginner → intermediate → advanced level in 12 weeks.
+Each path is designed to guide interns from **Beginner → Intermediate → Advanced** level in 12 weeks.
 
 ---
 
@@ -13,7 +13,7 @@ Each path is designed to guide interns from beginner → intermediate → advanc
 
 ### 📋 Submissions
 
-- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).
+- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).  
 - Add project/demo links to your **Onboarding Checklist Issue**.
 
 ---
@@ -26,7 +26,7 @@ Each path is designed to guide interns from beginner → intermediate → advanc
 
 ### 📋 Submissions
 
-- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).
+- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).  
 - Add project/demo links to your **Onboarding Checklist Issue**.
 
 ---
@@ -39,5 +39,5 @@ Each path is designed to guide interns from beginner → intermediate → advanc
 
 ### 📋 Submissions
 
-- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).
+- Submit weekly progress in the [Weekly Progress Form](../Forms/Weekly_Progress.md).  
 - Add project/demo links to your **Onboarding Checklist Issue**.
