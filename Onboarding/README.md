@@ -184,6 +184,36 @@ By the end of Week 1, you should:
 
 ---
 
+## ⏳ Task Prioritization Guide
+
+Managing your tasks well is just as important as completing them.  
+Use this guide to decide what to work on first and how to stay on track.
+
+### 🔑 Priority Levels
+- **High (🚨 Critical)** → Deadline within 1–2 days, or a blocker for the team.  
+- **Medium (⚡ Important)** → Contributes to weekly goals, but not urgent.  
+- **Low (🌱 Nice-to-have)** → Long-term or optional improvements.  
+
+### 🗂️ How to Prioritize
+1. **Check deadlines first** → Always deliver on time.  
+2. **Identify dependencies** → If your task blocks others, finish it first.  
+3. **Follow the 80/20 rule** → Focus on tasks that give the most impact.  
+4. **Communicate early** → If blocked, raise it in your **Onboarding Checklist Issue**.  
+
+### ✅ Daily Flow
+- Start day by reviewing **High-priority tasks**.  
+- Allocate ~70% of your time to high/medium, ~30% to learning & improvements.  
+- Update your progress in the **Weekly Progress Form**.  
+
+### 📌 Example
+- 🚨 **Submit Weekly Progress Form (Friday 5 PM)** → High  
+- ⚡ **Research AR tutorial links (due in 3 days)** → Medium  
+- 🌱 **Polish README formatting** → Low  
+
+💡 *Tip: Always finish High before Medium, Medium before Low.*
+
+---
+
 ## 🗓️ Leave Policy (India) — Max 12 Holidays
 - Up to **12 company holidays** per calendar year (Indian calendar).
 - HR publishes the official list annually and it **may change** based on company needs.
@@ -213,4 +243,5 @@ By the end of Week 1, you should:
 ![GitHub Setup](../assets/github-setup.png)  
 ![Email Setup](../assets/email-setup.png)  
 ![Company Intro Video](../assets/company-intro.png)
+
 
