@@ -42,7 +42,7 @@ Veeruby Technologies is an AR/VR innovation lab focused on creating immersive le
 - **What we do** → Build AR/VR training, simulations, and AI-powered solutions.  
 - **Why we do it** → To help businesses and learners embrace the future of immersive technology.  
 
-🎥 Watch our Company Intro Video: https://youtu.be/V2iUpk75usk?si=j3K_idRCfJaTEleo
+🎥 Watch our Company Intro Video: [https://youtu.be/V2iUpk75usk?si=j3K_idRCfJaTEleo](https://youtu.be/FG4xuBNw2po?si=RiMXivgJExAy1OdA)
 
 **Company Links**
 - Website: https://veeruby.com  
@@ -243,5 +243,6 @@ Use this guide to decide what to work on first and how to stay on track.
 ![GitHub Setup](../assets/github-setup.png)  
 ![Email Setup](../assets/email-setup.png)  
 ![Company Intro Video](../assets/company-intro.png)
+
 
 
