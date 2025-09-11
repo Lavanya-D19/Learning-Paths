@@ -1,9 +1,0 @@
-{
-  "retryOn429": true,
-  "retryCount": 2,
-  "timeout": "10s",
-  "ignorePatterns": [
-    { "pattern": "^mailto:" },
-    { "pattern": "forms.gle" }
-  ]
-}
