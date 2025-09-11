@@ -1,8 +1,5 @@
 # Quiz — Google Form
-> Complete this after each module.
 
-<iframe src="YOUR_FORM_URL" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">
-Loading…
-</iframe>
+Click below to open the form:
 
-If the form does not load, open it directly: [Open Quiz](YOUR_FORM_URL)
+👉 [Open Quiz Form](https://forms.gle/evK9H3XCx459ECrz9)
