@@ -1,7 +1,6 @@
 # Feedback — Google Form
 
-<iframe src="https://forms.gle/GJ4q6cr9ftGzA93UA" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">
-Loading…
-</iframe>
+Click below to open the form:
 
-Backup link: [Open Feedback](https://forms.gle/GJ4q6cr9ftGzA93UA)
+👉 [Open Feedback Form](https://forms.gle/GJ4q6cr9ftGzA93UA)
+
