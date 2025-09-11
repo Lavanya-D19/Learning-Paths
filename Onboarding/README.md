@@ -165,14 +165,13 @@ By the end of Week 1, you should:
 
 **Discord**
 - Beginner guide: https://support.discord.com/
-- Notifications/how-to: https://support.discord.com/hc/en-us/sections/115000350351
 
 **GitHub**
 - Getting Started: https://docs.github.com/en/get-started
 - Conventional Commits: https://www.conventionalcommits.org/en/v1.0.0/
 
 **Project Management (Agile)**
-- Atlassian guide: https://www.atlassian.com/agile/project-management
+- [Atlassian Project Management](https://www.atlassian.com/agile/project-management)
 
 **AR Learning**
 - Unity Learn (AR): https://learn.unity.com/
@@ -241,6 +240,9 @@ Use this guide to decide what to work on first and how to stay on track.
 ![Email Setup](../assets/email-setup.png)  
 ![Company Intro Video](../assets/company-intro.png)
 
+
+- [Atlassian Project Management](https://www.atlassian.com/agile/project-management)
+- [Discord Support](https://support.discord.com/hc/en-us)
 
 
 
