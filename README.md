@@ -1,7 +1,7 @@
 ## 🚀 Start Here
 - 📥 **Onboarding Guide** → [Onboarding/README.md](Onboarding/README.md)
 - 🤖 **How to use ChatGPT & Copilot** → [Onboarding/How_to_Use_ChatGPT_and_Copilot.md](Onboarding/How_to_Use_ChatGPT_and_Copilot.md)
-- 🧾 **Open your Onboarding Checklist** → [Create Issue](https://github.com/<OWNER>/<REPO>/issues/new?template=onboarding-checklist.yml)
+- 🧾 **Open your Onboarding Checklist** → [Create Issue](https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml)
 - 📜 **Policies (rules, timings, holidays)** → [Onboarding/Policies.md](Onboarding/Policies.md)
 
 ## 📚 Learning Paths
@@ -16,3 +16,4 @@
 
 ## 🗓️ Intern 90-Day Checklist
 Track milestones week-by-week → [Onboarding/Intern_90_Day_Checklist.md](Onboarding/Intern_90_Day_Checklist.md)
+
