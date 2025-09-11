@@ -1,7 +1,7 @@
 # Weekly Progress — Google Form
 
-<iframe src="YOUR_FORM_URL" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">
-Loading…
-</iframe>
+Click below to open the form:
 
-Backup link: [Open Weekly Progress](YOUR_FORM_URL)
+👉 [Open Weekly Progress Form](https://forms.gle/C1cdnW4Za3DsKWZN7)
+
+
