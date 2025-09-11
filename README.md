@@ -1,24 +1,29 @@
-## 🧭 Quick Navigation
+# Veeruby Learning Paths — LMS Dashboard (v1.2 — Sept 2025)
 
-<table>
-<tr>
-<td width="48%" valign="top">
+Welcome! This is the **single source of truth** for onboarding and learning.
 
-### 🚀 Start Here
-- ✅ Open your Onboarding Checklist  
-  https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml
-- 📜 Policies  
-  [Onboarding/Policies.md](Onboarding/Policies.md)
+## 🚀 Start Here
+- 📥 **Onboarding Guide** → `Onboarding/README.md`
+- 🤖 **How to use ChatGPT & Copilot** → `Onboarding/How_to_Use_ChatGPT_and_Copilot.md`
+- 🧾 **Open your Onboarding Checklist** → (GitHub Issue template)  
+- 📜 **Policies (rules, timings, holidays)** → `Onboarding/Policies.md`
 
-</td>
-<td width="48%" valign="top">
+## 📚 Learning Paths
+- **AR** → `AR/README.md`
+- **VR** → `VR/README.md`
+- **AI/ML** → `AI/README.md`
+- **Business/Operations** → `Business/README.md`
 
-### 📚 Learning Paths
-- AR · VR · AI/ML  
-  [Open Paths](LearningPaths/README.md)
+## 📝 Forms (embedded)
+- 🧪 **Quiz Form** → `Forms/Quiz.md`
+- 📈 **Weekly Progress Form** → `Forms/Weekly_Progress.md`
+- 💬 **Feedback Form** → `Forms/Feedback.md`
 
-### 📝 Forms
-- ✅ Quiz → https://YOUR_QUIZ_FORM_URL
-</td>
-</tr>
-</table>
+## 🗓️ Intern 90-Day Checklist
+Track milestones week-by-week → `Onboarding/Intern_90_Day_Checklist.md`
+
+## 🔧 Contributing & Updates
+- Update rules → `ADMIN_Update_Process.md`
+- Monthly admin log → `ADMIN_Update_Log.md`
+
+> **Tip:** All links are relative; keep paths stable to avoid 404s.
