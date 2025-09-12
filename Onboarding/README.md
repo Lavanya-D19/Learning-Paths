@@ -1,62 +1,82 @@
-Version v1.2 — Updated September 2025
-# Onboarding Learning Path
-
-Welcome to Veeruby’s Learning Path System 🚀  
-This guide will help you get started with our culture, tools, and workflows.
 
 ---
+title: "Onboarding Learning Path"
+description: "Start your journey at vRuby with this onboarding guide: culture, tools, and first steps."
+topic: "overview"
+last_updated: "2025-09-11"
+author: "vRuby Team"
+contributors: []
+keywords: ["AR/VR", "vRuby", "Learning Paths"]
+sidebar_label: "Onboarding"
+toc: true
+hide_title: false
+product: "vRuby LMS"
+version: "v1"
+---
 
-## 🚀 Start Here (New Interns)
-1. **Open your Onboarding Checklist** →  
-   https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml  
-   (This will create your personal issue — update it daily.)
+# Onboarding Learning Path
+
+Start your journey at vRuby with this onboarding guide. Learn about our culture, tools, and how to get started as a new intern or team member.
+
+## Prerequisites
+- Access to this repository and onboarding checklist
+- Discord account
+- Access to Google Drive and Notion
+
+## Start here
+1. **Open your onboarding checklist:** [Create Issue](https://github.com/Lavanya-D19/Learning-Paths/issues/new?template=onboarding-checklist.yml) (update it daily)
 2. **Read:** [Policies (rules, timings, holidays)](Policies.md)
 3. **Join Discord** and say hello in `#introductions`
 4. **Access tools:** GitHub (this repo), Google Drive, Notion
 5. **Pick your path:** [AR](../AR/README.md) / [VR](../VR/README.md) / [AI](../AI/README.md)
-6. **Create a Day-1 note** in your checklist issue → “Goals, blockers, next steps”
+6. **Create a Day-1 note** in your checklist issue: “Goals, blockers, next steps”
 
----
-
-## 📍 Source of Truth
+## Source of truth
 This is the **official onboarding guide**. Always refer here for the latest updates.
 
-- This onboarding guide lives in the [Onboarding folder](./) of our GitHub repo.  
-- The **single source of truth** is this file: [README.md](./README.md).  
-- Admin update rules are documented in [ADMIN_Update_Process.md](../ADMIN_Update_Process.md).  
+- This onboarding guide lives in the [Onboarding folder](./) of our GitHub repo.
+- The **single source of truth** is this file: [README.md](./README.md).
+- Admin update rules are documented in [ADMIN_Update_Process.md](../ADMIN_Update_Process.md).
 
-> **NOTE:** Always check this README first — it is the latest and only master copy.
+> [!NOTE]
+> Always check this README first — it is the latest and only master copy.
 
----
+## Welcome message & vision
+Welcome to Veeruby! 🌟
+We’re on a mission to build immersive AR/VR and AI experiences that transform how people learn and interact with technology. This onboarding journey will help you understand our culture, our tools, and how we collaborate as one team.
 
-## 📌 Welcome Message & Vision
-Welcome to Veeruby! 🌟  
-We’re on a mission to build immersive AR/VR and AI experiences that transform how people learn and interact with technology.  
-This onboarding journey will help you understand our culture, our tools, and how we collaborate as one team.
+## Company overview
+Veeruby Technologies is an AR/VR innovation lab focused on creating immersive learning and enterprise solutions.
+- **Who we are:** A passionate team of developers, designers, and innovators.
+- **What we do:** Build AR/VR training, simulations, and AI-powered solutions.
+- **Why we do it:** To help businesses and learners embrace the future of immersive technology.
 
----
-
-## 🏢 Company Overview
-Veeruby Technologies is an AR/VR innovation lab focused on creating immersive learning and enterprise solutions.  
-- **Who we are** → A passionate team of developers, designers, and innovators.  
-- **What we do** → Build AR/VR training, simulations, and AI-powered solutions.  
-- **Why we do it** → To help businesses and learners embrace the future of immersive technology.  
-
-🎥 Watch our Company Intro Video: [https://youtu.be/V2iUpk75usk?si=j3K_idRCfJaTEleo](https://youtu.be/FG4xuBNw2po?si=RiMXivgJExAy1OdA)
+![Company intro video thumbnail](../assets/company-intro.png)
 
 **Company Links**
-- Website: https://veeruby.com  
-- LinkedIn: https://in.linkedin.com/company/veeruby  
-- YouTube: https://www.youtube.com/@veeruby  
+- [Website](https://veeruby.com)
+- [LinkedIn](https://in.linkedin.com/company/veeruby)
+- [YouTube](https://www.youtube.com/@veeruby)
+
+## Culture & how we work
+- **Ownership:** If you see it, you fix it.
+- **Speed over perfection:** Ship small, iterate.
+- **Single source of truth:** This repo first.
+- **Respect time:** Be on time, keep updates crisp.
+- **Help each other:** Ask early, support teammates.
+
+## Next steps
+- [How to use ChatGPT & Copilot](How_to_Use_ChatGPT_and_Copilot.md)
+- [Policies](Policies.md)
+- [Intern 90-Day Checklist](Intern_90_Day_Checklist.md)
 
 ---
 
-## 💫 Culture & How We Work
-- **Ownership:** If you see it, you fix it.  
-- **Speed > perfection:** Ship small, iterate.  
-- **Single source of truth:** This repo first.  
-- **Respect time:** Be on time, keep updates crisp.  
-- **Help each other:** Ask early, support teammates.  
+## Related
+- [Learning Paths Overview](../LearningPaths/README.md)
+- [AR Path](../AR/README.md)
+- [VR Path](../VR/README.md)
+- [AI Path](../AI/README.md)
 
 ---
 
