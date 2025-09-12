@@ -1,0 +1,39 @@
+/* vRuby LMS | Microsoft Learn–style */
+:root{
+  --blue:#0067B8; --blue-dark:#004578; --gray-100:#F3F2F1; --gray-400:#605E5C;
+}
+body{font-family:"Segoe UI",Roboto,Arial,sans-serif; color:#222; background:#fff; line-height:1.6}
+
+/* Navbar */
+.vruby-navbar{display:flex;align-items:center;justify-content:space-between;background:var(--blue-dark);color:#fff;padding:1rem 2rem;border-bottom:1px solid #00335a}
+.vruby-navlinks a{color:#fff;margin-right:1.2rem;text-decoration:none;font-weight:500}
+.vruby-navlinks a:hover{color:#50a7f7}
+.vruby-brand{display:flex;align-items:center}.vruby-logo{height:40px;margin-right:.75rem}.vruby-brand-text{font-size:1.5rem;font-weight:700}
+
+/* Layout */
+.vruby-layout{display:flex}.vruby-main{flex:1;padding:2rem 3rem}.vruby-main h1{font-size:2rem;margin:0 0 1.5rem}
+
+/* Sidebar */
+.vruby-sidebar{width:220px;min-width:180px;background:var(--gray-100);border-right:1px solid #e0e0e0;padding:2rem 1rem 2rem 2rem;height:70vh}
+.vruby-sidebar ul{list-style:none;margin:0;padding:0}
+.vruby-sidebar li{margin-bottom:1rem}
+.vruby-sidebar a{display:block;padding:.25rem .6rem;border-radius:4px;color:var(--blue);text-decoration:none}
+.vruby-sidebar a:hover{background:#E1DFDD;color:var(--blue-dark)}
+
+/* Search */
+.vruby-search{display:flex;justify-content:center;align-items:center;gap:.75rem;margin:2rem 0 1.5rem}
+.vruby-search input{width:40vw;padding:.7rem;font-size:1rem;border-radius:4px;border:1px solid #ccc}
+.vruby-search button{padding:.7rem 1.5rem;font-size:1rem;border-radius:4px;background:var(--blue);color:#fff;border:none;cursor:pointer}
+
+/* Cards */
+.vruby-card-row{display:flex;flex-wrap:wrap;gap:2rem}
+.vruby-card{background:#fff;border-radius:10px;box-shadow:0 2px 12px #e0e0e0;padding:1.5rem;min-width:280px;flex:1 1 300px;transition:box-shadow .2s,transform .2s}
+.vruby-card:hover{box-shadow:0 6px 24px #b3b3b3;transform:translateY(-4px) scale(1.03)}
+.vruby-card h2{color:var(--blue);margin:.25rem 0 1rem}
+.vruby-card a{color:var(--blue);text-decoration:none;font-weight:500}
+.vruby-card a:hover{text-decoration:underline}
+
+/* Utility */
+.vruby-breadcrumb{font-size:.98em;color:var(--gray-400);margin-bottom:1.2em}
+.vruby-next-steps{background:var(--gray-100);border-radius:8px;padding:1.5rem;margin-top:2rem}
+.vruby-next-steps h2{font-size:1.1rem;margin:0 0 .6rem}
