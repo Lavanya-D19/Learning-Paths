@@ -1,5 +1,29 @@
 title: vRuby LMS
-theme: just-the-docs          # optional, but gives a clean docs layout
-url: https://lavanya-d19.github.io
-baseurl: /Learning-Paths      # <= EXACTLY your repo name
-just_the_docs_custom_css: assets/css/vruby.css
+email: your-email@example.com
+description: >-
+	vRuby LMS - Microsoft Learn–style learning platform
+baseurl: "/Learning-Paths"      # <= EXACTLY your repo name
+url: "https://lavanya-d19.github.io"
+theme: minima
+plugins:
+	- jekyll-feed
+	- jekyll-seo-tag
+
+# Navigation (optional)
+# navigation:
+#   - title: "Home"
+#     url: "/"
+#   - title: "Learning Paths"
+#     url: "/LearningPaths/"
+#   - title: "Onboarding"
+#     url: "/Onboarding/"
+#   - title: "Resources"
+#     url: "/LearningPaths/README.md"
+
+# Exclude these files/folders from build
+exclude:
+	- node_modules
+	- vendor
+	- README.md
+	- .github
+	- .vscode

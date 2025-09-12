@@ -19,14 +19,14 @@ version: "v1"
 <!-- Top Navigation Bar -->
 <div class="vruby-navbar">
   <div class="vruby-brand">
-    <img src="../assets/company-intro.png" alt="vRuby Logo" class="vruby-logo" />
+  <img src="{{ site.baseurl }}/assets/company-intro.png" alt="vRuby Logo" class="vruby-logo" />
     <span class="vruby-brand-text">vRuby LMS</span>
   </div>
   <nav class="vruby-navlinks">
-    <a href="../Onboarding/README.md">Onboarding</a>
-    <a href="../LearningPaths/README.md">Learning Paths</a>
-    <a href="../Forms/Weekly_Progress.md">Progress</a>
-    <a href="../Forms/Feedback.md">Feedback</a>
+  <a href="{{ site.baseurl }}/Onboarding/README.md">Onboarding</a>
+  <a href="{{ site.baseurl }}/LearningPaths/README.md">Learning Paths</a>
+  <a href="{{ site.baseurl }}/Forms/Weekly_Progress.md">Progress</a>
+  <a href="{{ site.baseurl }}/Forms/Feedback.md">Feedback</a>
   </nav>
 </div>
 
@@ -40,13 +40,13 @@ version: "v1"
   <!-- Sidebar Navigation -->
   <nav class="vruby-sidebar">
     <ul>
-      <li><a href="../AR/README.md">AR</a></li>
-      <li><a href="../VR/README.md">VR</a></li>
-      <li><a href="../AI/README.md">AI</a></li>
-      <li><a href="../LearningPaths/README.md">Learning Paths</a></li>
-      <li><a href="../Onboarding/README.md">Onboarding</a></li>
-      <li><a href="../Forms/Quiz.md">Quiz</a></li>
-      <li><a href="../Forms/Feedback.md">Feedback</a></li>
+        <li><a href="{{ site.baseurl }}/AR/README.md">AR</a></li>
+        <li><a href="{{ site.baseurl }}/VR/README.md">VR</a></li>
+        <li><a href="{{ site.baseurl }}/AI/README.md">AI</a></li>
+        <li><a href="{{ site.baseurl }}/LearningPaths/README.md">Learning Paths</a></li>
+        <li><a href="{{ site.baseurl }}/Onboarding/README.md">Onboarding</a></li>
+        <li><a href="{{ site.baseurl }}/Forms/Quiz.md">Quiz</a></li>
+        <li><a href="{{ site.baseurl }}/Forms/Feedback.md">Feedback</a></li>
     </ul>
   </nav>
 
@@ -63,6 +63,9 @@ version: "v1"
           <li><a href="../AR/README.md">AR Path</a></li>
           <li><a href="../VR/README.md">VR Path</a></li>
           <li><a href="../AI/README.md">AI/ML Path</a></li>
+            <li><a href="{{ site.baseurl }}/AR/README.md">AR Path</a></li>
+            <li><a href="{{ site.baseurl }}/VR/README.md">VR Path</a></li>
+            <li><a href="{{ site.baseurl }}/AI/README.md">AI/ML Path</a></li>
         </ul>
       </div>
 
@@ -73,6 +76,8 @@ version: "v1"
         <ul>
           <li><a href="../LearningPaths/README.md">All Tutorials</a></li>
           <li><a href="../Onboarding/How_to_Use_ChatGPT_and_Copilot.md">AI Tools Guide</a></li>
+            <li><a href="{{ site.baseurl }}/LearningPaths/README.md">All Tutorials</a></li>
+            <li><a href="{{ site.baseurl }}/Onboarding/How_to_Use_ChatGPT_and_Copilot.md">AI Tools Guide</a></li>
         </ul>
       </div>
 
@@ -84,6 +89,9 @@ version: "v1"
           <li><a href="../Forms/Weekly_Progress.md">Weekly Progress</a></li>
           <li><a href="../Forms/Quiz.md">Quiz</a></li>
           <li><a href="../Forms/Feedback.md">Feedback</a></li>
+            <li><a href="{{ site.baseurl }}/Forms/Weekly_Progress.md">Weekly Progress</a></li>
+            <li><a href="{{ site.baseurl }}/Forms/Quiz.md">Quiz</a></li>
+            <li><a href="{{ site.baseurl }}/Forms/Feedback.md">Feedback</a></li>
         </ul>
       </div>
     </div>
