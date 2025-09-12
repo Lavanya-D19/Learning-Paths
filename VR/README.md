@@ -12,6 +12,120 @@ hide_title: false
 product: "vRuby LMS"
 version: "v1"
 ---
+<!-- Microsoft Learn-Inspired Styles for VR Path -->
+<style>
+	.vruby-breadcrumb {
+		font-size: 0.98em; color: #605E5C; margin-bottom: 1.2em;
+		font-family: 'Segoe UI', 'Arial', sans-serif;
+	}
+	.vruby-vr-header {
+		font-size: 2.1em; font-weight: bold; color: #222;
+		font-family: 'Segoe UI', 'Arial', sans-serif; margin-bottom: 0.3em;
+	}
+	.vruby-vr-desc {
+		font-size: 1.15em; color: #444; margin-bottom: 1.5em;
+		font-family: 'Segoe UI', 'Arial', sans-serif;
+	}
+	.vruby-card-row {
+		display: flex; flex-wrap: wrap; gap: 2em; margin-bottom: 2em;
+	}
+	.vruby-card {
+		background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #e0e0e0;
+		padding: 1.5em; min-width: 220px; flex: 1 1 260px;
+		transition: box-shadow 0.2s, transform 0.2s;
+	}
+	.vruby-card:hover {
+		box-shadow: 0 6px 24px #b3b3b3; transform: translateY(-4px) scale(1.03);
+	}
+	.vruby-card h3 {
+		color: #0067B8; font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: bold; margin-top: 0;
+	}
+	.vruby-card a {
+		color: #0067B8; text-decoration: none; font-weight: 500;
+	}
+	.vruby-card a:hover { text-decoration: underline; }
+	.vruby-next-steps {
+		background: #F3F2F1; border-radius: 8px; padding: 1.5em 1.5em 1.2em 1.5em; margin-top: 2em;
+		font-family: 'Segoe UI', 'Arial', sans-serif;
+	}
+	.vruby-next-steps h2 {
+		font-size: 1.2em; color: #222; font-weight: bold; margin-top: 0;
+	}
+	.vruby-next-steps a { color: #0067B8; text-decoration: none; }
+	.vruby-next-steps a:hover { text-decoration: underline; }
+</style>
+
+<div class="vruby-breadcrumb">
+	<a href="../Dashboard.md">Home</a> &gt; <a href="../LearningPaths/README.md">Learning Paths</a> &gt; VR
+</div>
+
+<div class="vruby-vr-header">Virtual Reality (VR) Learning Path</div>
+<div class="vruby-vr-desc">Create immersive VR experiences with Unity & XR plugins in 12 weeks. This path guides you from setup to a demo-ready VR project.</div>
+
+---
+
+## Resources
+<div class="vruby-card-row">
+	<div class="vruby-card">
+		<h3>Unity XR Plugin Docs</h3>
+		<p>Official Unity documentation for XR plugin architecture and setup.</p>
+		<a href="https://docs.unity3d.com/Manual/XRPluginArchitecture.html">Unity XR Docs</a>
+	</div>
+	<div class="vruby-card">
+		<h3>Oculus VR Introduction</h3>
+		<p>Get started with Oculus VR development and device setup.</p>
+		<a href="https://developer.oculus.com/">Oculus VR Docs</a>
+	</div>
+	<div class="vruby-card">
+		<h3>XR Interaction Toolkit Docs</h3>
+		<p>Unity’s toolkit for VR interactions: grabbing, teleporting, and more.</p>
+		<a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest">XR Toolkit Docs</a>
+	</div>
+	<div class="vruby-card">
+		<h3>OpenXR Overview</h3>
+		<p>Open standard for VR/AR hardware and software interoperability.</p>
+		<a href="https://www.khronos.org/openxr/">OpenXR Docs</a>
+	</div>
+	<div class="vruby-card">
+		<h3>Photon Unity Networking</h3>
+		<p>Networking solutions for multiplayer VR experiences in Unity.</p>
+		<a href="https://www.photonengine.com/pun">Photon Docs</a>
+	</div>
+	<div class="vruby-card">
+		<h3>Unity Build Settings Guide</h3>
+		<p>How to build and deploy VR apps for multiple platforms.</p>
+		<a href="https://docs.unity3d.com/Manual/BuildSettings.html">Build Settings Guide</a>
+	</div>
+</div>
+
+<div class="vruby-next-steps">
+	<h2>Next steps</h2>
+	<ul>
+		<li>Start with the <a href="https://docs.unity3d.com/Manual/XRPluginArchitecture.html">Unity XR Plugin Docs</a></li>
+		<li>Build a basic VR scene and test on a real device</li>
+		<li>Try the XR Interaction Toolkit for hands-on VR controls</li>
+		<li>Move on to <a href="../AR/README.md">AR Path</a> or <a href="../AI/README.md">AI Path</a> when ready</li>
+	</ul>
+</div>
+
+---
+
+> [!TIP]
+> Comfort matters in VR — always aim for 72+ FPS to avoid motion sickness.
+---
+title: "Virtual Reality (VR) Learning Path"
+description: "Create immersive VR experiences with Unity & XR plugins in 12 weeks."
+topic: "overview"
+last_updated: "2025-09-11"
+author: "vRuby Team"
+contributors: []
+keywords: ["VR", "Learning Paths", "vRuby"]
+sidebar_label: "VR Path"
+toc: true
+hide_title: false
+product: "vRuby LMS"
+version: "v1"
+---
 
 # Virtual Reality (VR) Learning Path
 
