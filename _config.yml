@@ -1,0 +1,5 @@
+title: vRuby LMS
+theme: just-the-docs          # optional, but gives a clean docs layout
+url: https://lavanya-d19.github.io
+baseurl: /Learning-Paths      # <= EXACTLY your repo name
+just_the_docs_custom_css: assets/css/vruby.css
