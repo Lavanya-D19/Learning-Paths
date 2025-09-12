@@ -14,7 +14,7 @@ version: "v1"
 ---
 
 <!-- Global styles (relative path from /LearningPaths to /assets) -->
-<link rel="stylesheet" href="../assets/css/vruby.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/vruby.css">
 
 <!-- Top Navigation Bar -->
 <div class="vruby-navbar">
