@@ -20,7 +20,7 @@ It ensures a clear audit trail of **versions, PRs, commits, and prompts used**.
 ## 📅 October 2025
 - **Sections Updated:** Onboarding  
 - **Version:** v1.2 — Updated October 2025  
-- **PR:** <add real GitHub PR URL here>  
+- **PR:** [add real GitHub PR URL here]  
 - **Commit:** abc1234  
 - **Prompt Used:**  
 You are the Admin Assistant for the Learning Paths repo.  
@@ -77,17 +77,17 @@ Run this process on **Day 1 of every month at 10:00 AM IST**.
 ## 📅 September 2025
 - **Sections Updated:** Onboarding  
 - **Version:** v1.1 — Updated September 2025  
-- **PR:** <add real GitHub PR URL here>  
+- **PR:** [add real GitHub PR URL here]  
 - **Commit:** xyz5678  
 - **Prompt Used:**  
-Initial onboarding update: Slack → Discord, Trello → Notion,
+Initial onboarding update: Slack → Discord, Trello → Notion,  
 Leave Policy section, email guidelines, AR Learning resources, and company links.
 
 ---
 
 ## 📅 Template for Future Logs
-- **Sections Updated:** <Onboarding / AI / AR / VR / Policies / Media>  
-- **Version:** vX.Y — Updated <Month Year>  
-- **PR:** <add real GitHub PR URL here>  
-- **Commit:** <commit hash>  
-- **Prompt Used:** <paste admin prompt>
+- **Sections Updated:** [Onboarding / AI / AR / VR / Policies / Media]  
+- **Version:** vX.Y — Updated [Month Year]  
+- **PR:** [add real GitHub PR URL here]  
+- **Commit:** [commit hash]  
+- **Prompt Used:** [paste admin prompt]
