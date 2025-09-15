@@ -1,6 +1,6 @@
 # Policies — Rules, Timings, Holidays
 
-> **This document may change.** HR/Admins update it yearly and log updates in [ADMIN_Update_Log.md](../ADMIN_Update_Log.md).
+> **This document may change.** HR/Admins update it yearly and log updates in [ADMIN_Update_Log.md](ADMIN_Update_Log.md).
 
 ---
 
@@ -48,4 +48,4 @@
 ---
 
 ## 🔄 Changes & Exceptions
-- Admins update this page and log all changes in: [ADMIN_Update_Log.md](../ADMIN_Update_Log.md).
+- Admins update this page and log all changes in: [ADMIN_Update_Log.md](ADMIN_Update_Log.md).

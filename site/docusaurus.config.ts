@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://lavanya-d19.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Learning-Paths/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Lavanya-D19', // Your GitHub username.
+  projectName: 'Learning-Paths', // Your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -111,7 +111,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {label: 'Learning Paths', to: '/'},
-            {label: 'Onboarding', to: '/Onboarding/README'},
+            {label: 'Onboarding', to: '/Onboarding'},
             {label: 'Forms', to: '/Forms/Feedback'},
           ],
         },

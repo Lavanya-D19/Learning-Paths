@@ -62,9 +62,7 @@ version: "v1"
 ## Source of truth
 This is the **official onboarding guide**. Always refer here for the latest updates.
 
-- This onboarding guide lives in the [Onboarding folder](./) of our GitHub repo.
-- The **single source of truth** is this file: [README.md](./README.md).
-- Admin update rules are documented in [ADMIN_Update_Process.md](../ADMIN_Update_Process.md).
+ Admin update rules are documented in [ADMIN_Update_Process.md](ADMIN_Update_Process.md).
 
 > [!NOTE]
 > Always check this README first — it is the latest and only master copy.

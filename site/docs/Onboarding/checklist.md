@@ -4,7 +4,7 @@ This is the single source of truth for your 12-week journey at **Veeruby**.
 Pick **one primary path** (AR / VR / AI-ML). You’ll ship a capstone by Week 12.
 
 **Quick links**
-- 📚 Learning Paths: [AR](../LearningPaths/README.md#ar) · [VR](../LearningPaths/README.md#vr) · [AI/ML](../LearningPaths/README.md#aiml)
+- 📚 Learning Paths: [AR](../AR/README.md) · [VR](../VR/README.md) · [AI/ML](../AI/README.md)
 - ✅ Quizzes: 
   - AR → https://YOUR_AR_QUIZ_FORM_URL
   - VR → https://YOUR_VR_QUIZ_FORM_URL
@@ -54,7 +54,7 @@ Pick **one primary path** (AR / VR / AI-ML). You’ll ship a capstone by Week 12
 ## 📅 12-Week Plan (tick as you go)
 
 ### Week 1 — Orientation & Setup
-- [ ] Repo tour + read [Documentation-Standards.md](../Documentation-Standards.md)
+- [ ] Repo tour + read [Documentation-Standards.md](Documentation-Standards.md)
 - [ ] Install tools (Unity/Python/Git) per your path
 - [ ] Pick path and confirm scope with mentor
 - [ ] **Quiz-01** (Intro): submit link above
