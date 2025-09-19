@@ -41,18 +41,18 @@
 	.vruby-next-steps a:hover { text-decoration: underline; }
 </style>
 ---
-title: "AI / Machine Learning Learning Path"
-description: "Transform from beginner to advanced ML practitioner in 12 weeks with hands-on projects."
-topic: "overview"
-last_updated: "2025-09-11"
+title: "Artificial Intelligence / Machine Learning (AI/ML) Learning Path"
+description: "A 12-week path to learn Python, machine learning workflows, and AI integration with XR."
+topic: "AI/ML"
+last_updated: "2025-09-19"
 author: "vRuby Team"
 contributors: []
-keywords: ["AI", "ML", "Learning Paths", "vRuby"]
+keywords: ["AI", "Machine Learning", "Python", "TensorFlow", "Learning Paths", "vRuby"]
 sidebar_label: "AI/ML Path"
 toc: true
 hide_title: false
 product: "vRuby LMS"
-version: "v1"
+version: "v1.2"
 ---
 
 
