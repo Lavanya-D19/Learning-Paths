@@ -15,7 +15,7 @@ version: "v1.3"
 # 🌐 vRuby Learning Hub  
 *Learning for everyone, everywhere.*
 
-![Immersive VR Learning](assets/home-hero-vr.jpeg "Explore AR, VR, and AI/ML at vRuby")
+![Immersive VR Learning](/img/home-hero-vr.jpeg "Explore AR, VR, and AI/ML at vRuby")
 
 Welcome to the **vRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
 
