@@ -1,187 +1,79 @@
+---
 title: "Augmented Reality (AR) Learning Path"
-description: "Build AR apps with Unity, AR Foundation, and Vuforia in 12 weeks."
-topic: "overview"
-last_updated: "2025-09-11"
+description: "A 12-week path to build AR apps with Unity, AR Foundation, and Vuforia."
+topic: "AR"
+last_updated: "2025-09-19"
 author: "vRuby Team"
 contributors: []
-keywords: ["AR", "Learning Paths", "vRuby"]
+keywords: ["AR", "Learning Paths", "Unity", "Vuforia", "AR Foundation", "vRuby"]
 sidebar_label: "AR Path"
 toc: true
 hide_title: false
 product: "vRuby LMS"
-version: "v1"
-<!-- Microsoft Learn-Inspired Styles for AR Path -->
-<style>
-	.vruby-breadcrumb {
-		font-size: 0.98em; color: #605E5C; margin-bottom: 1.2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-ar-header {
-		font-size: 2.1em; font-weight: bold; color: #222;
-		font-family: 'Segoe UI', 'Arial', sans-serif; margin-bottom: 0.3em;
-	}
-	.vruby-ar-desc {
-		font-size: 1.15em; color: #444; margin-bottom: 1.5em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-card-row {
-		display: flex; flex-wrap: wrap; gap: 2em; margin-bottom: 2em;
-	}
-	.vruby-card {
-		background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #e0e0e0;
-		padding: 1.5em; min-width: 220px; flex: 1 1 260px;
-		transition: box-shadow 0.2s, transform 0.2s;
-	}
-	.vruby-card:hover {
-		box-shadow: 0 6px 24px #b3b3b3; transform: translateY(-4px) scale(1.03);
-	}
-	.vruby-card h3 {
-		color: #0067B8; font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: bold; margin-top: 0;
-	}
-	.vruby-card a {
-		color: #0067B8; text-decoration: none; font-weight: 500;
-	}
-	.vruby-card a:hover { text-decoration: underline; }
-	.vruby-next-steps {
-		background: #F3F2F1; border-radius: 8px; padding: 1.5em 1.5em 1.2em 1.5em; margin-top: 2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-next-steps h2 {
-		font-size: 1.2em; color: #222; font-weight: bold; margin-top: 0;
-	}
-	.vruby-next-steps a { color: #0067B8; text-decoration: none; }
-	.vruby-next-steps a:hover { text-decoration: underline; }
-</style>
-<!-- Microsoft Learn-Inspired Styles for AR Path -->
-<style>
-	.vruby-breadcrumb {
-		font-size: 0.98em; color: #605E5C; margin-bottom: 1.2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-ar-header {
-		font-size: 2.1em; font-weight: bold; color: #222;
-		font-family: 'Segoe UI', 'Arial', sans-serif; margin-bottom: 0.3em;
-	}
-	.vruby-ar-desc {
-		font-size: 1.15em; color: #444; margin-bottom: 1.5em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-card-row {
-		display: flex; flex-wrap: wrap; gap: 2em; margin-bottom: 2em;
-	}
-	.vruby-card {
-		background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #e0e0e0;
-		padding: 1.5em; min-width: 220px; flex: 1 1 260px;
-		transition: box-shadow 0.2s, transform 0.2s;
-	}
-	.vruby-card:hover {
-		box-shadow: 0 6px 24px #b3b3b3; transform: translateY(-4px) scale(1.03);
-	}
-	.vruby-card h3 {
-		color: #0067B8; font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: bold; margin-top: 0;
-	}
-	.vruby-card a {
-		color: #0067B8; text-decoration: none; font-weight: 500;
-	}
-	.vruby-card a:hover { text-decoration: underline; }
-	.vruby-next-steps {
-		background: #F3F2F1; border-radius: 8px; padding: 1.5em 1.5em 1.2em 1.5em; margin-top: 2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-next-steps h2 {
-		font-size: 1.2em; color: #222; font-weight: bold; margin-top: 0;
-	}
-	.vruby-next-steps a { color: #0067B8; text-decoration: none; }
-	.vruby-next-steps a:hover { text-decoration: underline; }
-</style>
----
-title: "Augmented Reality (AR) Learning Path"
-description: "Build AR apps with Unity, AR Foundation, and Vuforia in 12 weeks."
-topic: "overview"
-last_updated: "2025-09-11"
-author: "vRuby Team"
-contributors: []
-keywords: ["AR", "Learning Paths", "vRuby"]
-sidebar_label: "AR Path"
-toc: true
-hide_title: false
-product: "vRuby LMS"
-version: "v1"
+version: "v1.2"
 ---
 
+# 🚀 Augmented Reality (AR) Learning Path
 
-
-<div class="vruby-breadcrumb">
-	<a href="../Dashboard.md">Home</a> &gt; <a href="../LearningPaths/README.md">Learning Paths</a> &gt; AR
-</div>
-
-<div class="vruby-ar-header">Augmented Reality (AR) Learning Path</div>
-<div class="vruby-ar-desc">Build AR apps with Unity, AR Foundation, and Vuforia in 12 weeks. This path guides you from setup to publishing a working AR demo project.</div>
+Welcome to the **AR Learning Path**!  
+This 12-week program takes you from setup to publishing a working AR demo. You’ll begin with foundations, build guided projects, and finish with an independent showcase.
 
 ---
 
-
-## Resources
-<div class="vruby-card-row">
-	<!-- Card 1 -->
-	<div class="vruby-card">
-		<h3>Unity Learn (AR)</h3>
-		<p>Official Unity tutorials for AR development, from beginner to advanced.</p>
-		<a href="https://learn.unity.com/">Go to Unity Learn</a>
-	</div>
-	<!-- Card 2 -->
-	<div class="vruby-card">
-		<h3>Getting Started with Vuforia</h3>
-		<p>Step-by-step guide to using Vuforia for AR image tracking and more.</p>
-		<a href="https://library.vuforia.com/">Vuforia Docs</a>
-	</div>
-	<!-- Card 3 -->
-	<div class="vruby-card">
-		<h3>AR Foundation Docs</h3>
-		<p>Unity’s cross-platform AR framework documentation and API reference.</p>
-		<a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@latest">AR Foundation Docs</a>
-	</div>
-	<!-- Card 4 -->
-	<div class="vruby-card">
-		<h3>Unity UI Toolkit</h3>
-		<p>Build modern, flexible AR user interfaces in Unity.</p>
-		<a href="https://docs.unity3d.com/Manual/UIElements.html">Unity UI Toolkit</a>
-	</div>
-	<!-- Card 5 -->
-	<div class="vruby-card">
-		<h3>Unity Build Settings Guide</h3>
-		<p>How to build and deploy AR apps for Android and iOS.</p>
-		<a href="https://docs.unity3d.com/Manual/BuildSettings.html">Build Settings Guide</a>
-	</div>
-	<!-- Card 6 -->
-	<div class="vruby-card">
-		<h3>Unity Optimization Guide</h3>
-		<p>Best practices for optimizing AR graphics and performance.</p>
-		<a href="https://docs.unity3d.com/Manual/OptimizingGraphicsPerformance.html">Optimization Guide</a>
-	</div>
-	<!-- Card 7 -->
-	<div class="vruby-card">
-		<h3>ARCore Developer Guide</h3>
-		<p>Google’s official ARCore documentation for Android AR development.</p>
-		<a href="https://developers.google.com/ar">ARCore Guide</a>
-	</div>
-</div>
+## 🎯 Learning Objectives
+By completing this path, you will:
+- Understand the **principles of AR** and its real-world use cases.  
+- Set up **Unity, AR Foundation, and Vuforia** for AR development.  
+- Build apps with **image targets, plane detection, and AR interactions**.  
+- Optimize AR apps for **mobile devices**.  
+- Showcase a final **portfolio-ready AR demo project**.  
 
 ---
 
+## 📅 12-Week AR Path Structure
 
-
-<div class="vruby-next-steps">
-	<h2>Next steps</h2>
-	<ul>
-		<li>Start with the <a href="https://learn.unity.com/">Beginner AR Tutorials</a></li>
-		<li>Try building your first ImageTarget app</li>
-		<li>Join the community for Q&A and project sharing</li>
-		<li>Move on to <a href="../VR/README.md">VR Path</a> or <a href="../AI/README.md">AI Path</a> when ready</li>
-	</ul>
-</div>
+| Phase            | Weeks  | Focus Area                        | Example Milestone                  |
+|------------------|--------|-----------------------------------|------------------------------------|
+| **Beginner**     | 1–4    | Setup, Unity basics, AR concepts  | First ImageTarget AR demo          |
+| **Intermediate** | 5–8    | Guided AR projects, UI/UX design  | Submit AR Product Viewer demo      |
+| **Advanced**     | 9–12   | Independent AR project            | Deliver final AR showcase project  |
 
 ---
 
-> [!TIP]
-> Always test on a real device — Unity Play Mode won’t show true AR performance.
+## 🧪 Sample Projects
+- **AR Business Card** → Scan a card to reveal contact details in 3D.  
+- **AR Product Viewer** → Place and interact with products in real space.  
+- **Smart City Guide** → Use markers to reveal city landmarks in AR.  
+
+---
+
+## 🛠️ Core Resources
+- [Unity Learn (AR)](https://learn.unity.com/) — Official Unity tutorials.  
+- [Vuforia Library](https://library.vuforia.com/) — Docs for image tracking.  
+- [AR Foundation Docs](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@latest) — Cross-platform AR framework.  
+- [Unity UI Toolkit](https://docs.unity3d.com/Manual/UIElements.html) — Build AR user interfaces.  
+- [Unity Build Settings](https://docs.unity3d.com/Manual/BuildSettings.html) — Deploy to Android/iOS.  
+- [Optimization Guide](https://docs.unity3d.com/Manual/OptimizingGraphicsPerformance.html) — Best practices for AR performance.  
+- [Google ARCore](https://developers.google.com/ar) — Android AR SDK documentation.  
+
+---
+
+## ✅ Outcomes
+By the end of this AR Path, you will:
+- Confidently explain AR concepts and workflows.  
+- Use Unity + AR Foundation to build AR prototypes.  
+- Integrate Vuforia for advanced tracking scenarios.  
+- Deploy AR apps to real devices.  
+- Present a final project that demonstrates your AR skills.  
+
+---
+
+## 📌 Next Steps
+- Begin with [Unity Learn Beginner AR Tutorials](https://learn.unity.com/).  
+- Build your **first ImageTarget AR app**.  
+- Share weekly progress via the [Progress Form](../Forms/Weekly_Progress.md).  
+- When complete, explore the [VR Path](../VR/README.md) or [AI Path](../AI/README.md).  
+
+---
+
+> **Tip:** Always test AR apps on **real devices** — Unity Play Mode won’t fully reflect performance.
