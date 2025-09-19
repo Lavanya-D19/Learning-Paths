@@ -56,4 +56,4 @@ Admins should log **date, version, and changes** for transparency and tracking.
 This log ensures:
 - Clear visibility of LMS evolution.  
 - Easy reference for interns and team members.  
-- Professional documentation practices.
+- Professional documentation practices.  
