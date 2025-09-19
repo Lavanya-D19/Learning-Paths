@@ -1,22 +1,57 @@
 ---
-title: "Welcome to Veeruby Learning Hub"
-description: "Your gateway to AR/VR, AI, and Business learning paths."
-slug: /
+title: "vRuby Learning Paths"
+description: "Central repository for onboarding, AR, VR, and AI/ML learning paths at vRuby."
+last_updated: "2025-09-19"
+author: "vRuby Team"
+contributors: []
+keywords: ["README", "Learning Paths", "Onboarding", "AR", "VR", "AI/ML", "vRuby"]
+sidebar_label: "README"
+toc: false
+hide_title: false
+product: "vRuby LMS"
+version: "v1.2"
 ---
 
-# Welcome to Veeruby Learning Hub
+# 🎓 vRuby Learning Paths (LMS)
 
-Explore our structured learning paths for AR, VR, and AI/ML. Each path is designed to guide you from beginner to advanced, with hands-on projects and real-world skills.
-
-## Get Started
-- [Learning Paths Overview](LearningPaths/README.md)
-- [Onboarding Guide](Onboarding/README.md)
-- [Feedback & Forms](Forms/Feedback.md)
+Welcome to the **vRuby Learning Paths repository**!  
+This repo is the **single source of truth** for onboarding, structured training, and learning resources at vRuby.
 
 ---
 
-> Need help? Contact [support@veeruby.com](mailto:support@veeruby.com)
+## 🚀 Quick Start
+1. Open the **[Dashboard](Dashboard.md)**.  
+2. Complete the **[Onboarding Guide](Onboarding/README.md)**.  
+3. Pick your **Learning Path**:  
+   - [AR Path](AR/README.md)  
+   - [VR Path](VR/README.md)  
+   - [AI/ML Path](AI/README.md)  
 
 ---
 
-_This site is inspired by [Microsoft Learn](https://learn.microsoft.com/), with a focus on clarity, accessibility, and hands-on learning._
+## 📚 What’s Inside
+- **Onboarding** → Guides, policies, and forms for new interns.  
+- **Learning Paths** → AR, VR, and AI/ML roadmaps (12 weeks each).  
+- **Resources** → Standards, update logs, and migration notes.  
+- **Forms** → Weekly progress, feedback, and quiz submissions.  
+
+---
+
+## 📝 Contribution Guidelines
+- All files must be **Markdown-only** (`.md`, `.json`, `.yml`).  
+- Follow [Documentation Standards](Documentation-Standards.md).  
+- Use meaningful commit messages (e.g., `feat(docs): …`).  
+
+---
+
+## 🔄 Visual Map
+```mermaid
+flowchart TD
+  A[README] --> B[Dashboard]
+  A --> C[Onboarding]
+  A --> D[Learning Paths]
+  D --> E[AR]
+  D --> F[VR]
+  D --> G[AI/ML]
+  A --> H[Resources]
+```
