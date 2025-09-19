@@ -1,53 +1,60 @@
 ---
-title: "vRuby Learning Management System"
-description: "Welcome page for the vRuby LMS – onboarding, learning paths, and resources."
+title: "vRuby Learning Hub"
+description: "Homepage for the vRuby LMS — onboarding, learning paths, and resources."
 last_updated: "2025-09-19"
 author: "vRuby Team"
 contributors: []
-keywords: ["Homepage", "Index", "vRuby LMS", "Onboarding", "Learning Paths"]
+keywords: ["Homepage", "vRuby LMS", "Onboarding", "Learning Paths", "AR", "VR", "AI/ML"]
 sidebar_label: "Home"
 toc: false
 hide_title: false
 product: "vRuby LMS"
-version: "v1.2"
+version: "v1.3"
 ---
 
-# 🎓 Welcome to the vRuby LMS
+# 🌐 vRuby Learning Hub  
+*Learning for everyone, everywhere.*
 
-The **vRuby Learning Management System (LMS)** is your single source for:  
-- Intern **onboarding**  
-- Structured **learning paths** in AR, VR, and AI/ML  
-- Weekly forms, feedback, and resources  
+![Immersive VR Learning](assets/home-hero-vr.jpeg "Explore AR, VR, and AI/ML at vRuby")
 
-This site is built to help interns, employees, and collaborators learn efficiently and showcase progress.
+Welcome to the **vRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
+
+---
+
+## 🔎 Explore Learning Paths
+- 📱 **[AR Path](AR/README.md)** — AR Foundation & Vuforia, 12-week build.  
+- 🥽 **[VR Path](VR/README.md)** — Unity XR, interaction & comfort design.  
+- 🤖 **[AI/ML Path](AI/README.md)** — Python, ML workflows, AI for XR.
 
 ---
 
 ## 🚀 Quick Start
-1. Begin with the [Dashboard](Dashboard.md).  
-2. Complete your [Onboarding Guide](Onboarding/README.md).  
-3. Choose your learning path:  
-   - [AR Path](AR/README.md)  
-   - [VR Path](VR/README.md)  
-   - [AI/ML Path](AI/README.md)  
+1. Open the **[Dashboard](Dashboard.md)**  
+2. Complete **[Onboarding](Onboarding/README.md)**  
+3. Submit your first **[Weekly Progress](Forms/Weekly_Progress.md)**
+
+> **Tip:** Finish onboarding in Week 1 to unlock your learning path.
 
 ---
 
-## 📚 What’s Inside
-- **Onboarding** → Checklist, policies, and setup guides.  
-- **Learning Paths** → AR, VR, and AI/ML 12-week tracks.  
-- **Resources** → Forms, standards, update logs, migration notes.  
+## 📚 Popular Resources
+| Area | Go-to Links |
+|---|---|
+| AR | Unity Learn (AR), Vuforia Docs, AR Foundation Guides |
+| VR | Unity XR Plugin, XR Interaction Toolkit, OpenXR |
+| AI/ML | Python, TensorFlow, PyTorch, Kaggle |
 
 ---
 
-## 🔄 Visual Roadmap
+## 🗺️ Visual Roadmap
 ```mermaid
 flowchart TD
-  A[Home] --> B[Dashboard]
-  A --> C[Onboarding]
-  A --> D[Learning Paths]
-  D --> E[AR]
-  D --> F[VR]
-  D --> G[AI/ML]
+  A[Home] --> B[Onboarding]
+  A --> C[Learning Paths]
+  C --> D[AR]
+  C --> E[VR]
+  C --> F[AI/ML]
+  A --> G[Forms]
   A --> H[Resources]
+  F --> I[Final Showcase]
 ```
