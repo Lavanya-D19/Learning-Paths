@@ -56,4 +56,4 @@ It is separate from the [Admin Update Log](ADMIN_Update_Log.md), focusing only o
 This log provides:
 - A clear history of **repo and site migrations**.  
 - Transparency for contributors during transitions.  
-- A reference for future upgrades and audits.
+- A reference for future upgrades and audits.  
