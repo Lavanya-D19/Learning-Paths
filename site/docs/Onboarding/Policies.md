@@ -1,51 +1,68 @@
-# Policies — Rules, Timings, Holidays
+---
+title: "Onboarding Policies"
+description: "Company rules, timings, and holiday list for interns and employees at vRuby."
+last_updated: "2025-09-19"
+author: "vRuby Team"
+contributors: []
+keywords: ["Policies", "Onboarding", "Rules", "Holidays", "vRuby LMS"]
+sidebar_label: "Policies"
+toc: true
+hide_title: false
+product: "vRuby LMS"
+version: "v1.2"
+---
 
-> **This document may change.** HR/Admins update it yearly and log updates in [ADMIN_Update_Log.md](ADMIN_Update_Log.md).
+# 📜 Onboarding Policies
+
+This page outlines the **rules, timings, and holidays** that interns and employees at vRuby must follow.  
+Please read carefully during your first week of onboarding.
 
 ---
 
-## ⏰ Work Timings
-- **Standard window:** 10:00 AM – 6:00 PM IST (1 hr break)
-- **Minimum availability:** Be online for standups & reviews as scheduled by mentor
-- **Communication:** If late/absent, inform on **Discord** at least 1 hour before start
+## 🕒 Working Hours
+- Standard hours: **9:30 AM – 6:30 PM IST**.  
+- Lunch break: **1:00 PM – 2:00 PM IST**.  
+- Flexible work-from-home may be allowed with prior approval.  
 
 ---
 
-## 📝 Working Rules
-- **Updates:** Post a brief daily update in your **Onboarding Checklist Issue**
-- **Source of truth:** This GitHub repo. If a doc conflicts, the README here wins
-- **Naming:** Use clear file names & commit messages (e.g., `feat(ar): add image-target guide`)
-- **Respect & conduct:** Be professional, inclusive, and constructive
+## 📌 Attendance
+- Daily check-in on **Discord** before 10:00 AM.  
+- Submit your **Weekly Progress Form** without fail.  
+- Notify your mentor in advance for planned leave.  
 
 ---
 
-## 🗓️ Holidays (Karnataka Focus — Max 12)
-- Up to **12 company holidays** per calendar year.
-- HR publishes the official list annually and it **may change** based on company needs.
+## 🎉 Holidays (12 Major Festivals)
+| Date        | Festival                | Type       |
+|-------------|-------------------------|------------|
+| Jan 26      | Republic Day            | Public     |
+| Mar (varies)| Holi                    | Festival   |
+| Apr (varies)| Ugadi / Gudi Padwa      | Regional   |
+| Aug 15      | Independence Day        | Public     |
+| Aug (varies)| Raksha Bandhan          | Festival   |
+| Sep (varies)| Ganesh Chaturthi        | Festival   |
+| Oct (varies)| Dussehra / Vijayadashami| Festival   |
+| Oct/Nov     | Diwali (Deepavali)      | Festival   |
+| Nov (varies)| Kannada Rajyotsava      | Regional   |
+| Dec 25      | Christmas               | Public     |
+| 1 Floating  | Chosen by intern/mentor | Optional   |
+| 1 Floating  | Chosen by company HR    | Optional   |
 
-| #  | Holiday Name                | Notes |
-|----|-----------------------------|-------|
-| 1  | Makara Sankranti / Pongal   | Karnataka harvest festival |
-| 2  | Republic Day                | National holiday |
-| 3  | Maha Shivaratri             | Karnataka temples |
-| 4  | Ugadi (Kannada New Year)    | Major Karnataka festival |
-| 5  | Eid al-Fitr (Ramzan)        | Community festival |
-| 6  | Independence Day            | National holiday |
-| 7  | Ganesha Chaturthi           | Hugely celebrated in Karnataka |
-| 8  | Gandhi Jayanti              | National holiday |
-| 9  | Dasara (Mysore)             | Karnataka’s signature festival |
-| 10 | Deepavali / Diwali          | Pan-India, strong in Karnataka |
-| 11 | Varamahalakshmi Vrata       | Popular Karnataka festival |
-| 12 | Christmas                   | Pan-India festival |
-
----
-
-## 🧾 Leave & Attendance
-- **Planned leave:** Request at least **3 working days** in advance (Discord + checklist issue).
-- **Unplanned leave:** Notify ASAP on Discord; update your checklist issue.
-- **Evidence:** For long absences (2+ days), mentors may ask for justification.
+> **Note:** Dates that vary by year will be announced at the start of each quarter.
 
 ---
 
-## 🔄 Changes & Exceptions
-- Admins update this page and log all changes in: [ADMIN_Update_Log.md](ADMIN_Update_Log.md).
+## ✅ Code of Conduct
+- Be respectful and collaborative.  
+- Follow deadlines and submission formats.  
+- Use professional communication in all channels.  
+- Academic integrity: no plagiarism in projects.  
+
+---
+
+## 📝 Outcomes
+By following these policies you will:
+- Stay aligned with company expectations.  
+- Balance work, learning, and holidays effectively.  
+- Maintain a professional and respectful environment.
