@@ -1,0 +1,17 @@
+{
+  "siteTitle": "Markdown LMS",
+  "description": "A pure Markdown-based Learning Management System.",
+  "lastUpdated": "2025-09-19",
+  "navigation": [
+    { "title": "Home", "path": "/docs/index.md" },
+    { "title": "Overview", "path": "/docs/overview.md" },
+    { "title": "AR Path", "path": "/docs/lms-paths/ar.md" },
+    { "title": "VR Path", "path": "/docs/lms-paths/vr.md" },
+    { "title": "AI Path", "path": "/docs/lms-paths/ai.md" },
+    { "title": "Onboarding", "path": "/docs/onboarding/README.md" },
+    { "title": "Policies", "path": "/docs/onboarding/policies.md" },
+    { "title": "Checklist", "path": "/docs/onboarding/checklist.md" },
+    { "title": "Videos", "path": "/docs/resources/videos.md" },
+    { "title": "Tutorials", "path": "/docs/resources/tutorials.md" }
+  ]
+}

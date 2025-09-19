@@ -73,6 +73,43 @@ version: "v1"
 
 ---
 
+# Markdown-Only LMS
+
+This repository is a pure Markdown-based Learning Management System (LMS).
+
+## Policy
+- Only `.md`, `.yml`/`.yaml`, `.json`, `.gitignore`, `LICENSE`, and `README.md` files are allowed.
+- No HTML, CSS, JS, TS, MDX, or other source files.
+- All navigation is managed via `/config/nav.yml` and `/config/site.json`.
+- Images are stored in `/docs/assets/` and referenced with Markdown syntax.
+
+## Structure
+```
+/docs/
+  index.md
+  overview.md
+  lms-paths/
+    ar.md
+    vr.md
+    ai.md
+  onboarding/
+    README.md
+    policies.md
+    checklist.md
+  resources/
+    videos.md
+    tutorials.md
+  assets/
+/config/
+  nav.yml
+  site.json
+```
+
+## Migration
+See `MIGRATION_LOG.md` for details on deleted, converted, and updated files.
+
+---
+
 ## Related
 - [Learning Paths Overview](LearningPaths/README.md)
 - [Onboarding Guide](Onboarding/README.md)
