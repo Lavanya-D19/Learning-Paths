@@ -1,194 +1,80 @@
 ---
 title: "Virtual Reality (VR) Learning Path"
-description: "Create immersive VR experiences with Unity & XR plugins in 12 weeks."
-topic: "overview"
-last_updated: "2025-09-11"
+description: "Create immersive VR experiences with Unity and XR plugins in 12 weeks."
+topic: "VR"
+last_updated: "2025-09-19"
 author: "vRuby Team"
 contributors: []
-keywords: ["VR", "Learning Paths", "vRuby"]
+keywords: ["VR", "Learning Paths", "Unity", "XR", "Oculus", "OpenXR", "vRuby"]
 sidebar_label: "VR Path"
 toc: true
 hide_title: false
 product: "vRuby LMS"
-version: "v1"
+version: "v1.2"
 ---
-<!-- Microsoft Learn-Inspired Styles for VR Path -->
-<style>
-	.vruby-breadcrumb {
-		font-size: 0.98em; color: #605E5C; margin-bottom: 1.2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-vr-header {
-		font-size: 2.1em; font-weight: bold; color: #222;
-		font-family: 'Segoe UI', 'Arial', sans-serif; margin-bottom: 0.3em;
-	}
-	.vruby-vr-desc {
-		font-size: 1.15em; color: #444; margin-bottom: 1.5em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-card-row {
-		display: flex; flex-wrap: wrap; gap: 2em; margin-bottom: 2em;
-	}
-	.vruby-card {
-		background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #e0e0e0;
-		padding: 1.5em; min-width: 220px; flex: 1 1 260px;
-		transition: box-shadow 0.2s, transform 0.2s;
-	}
-	.vruby-card:hover {
-		box-shadow: 0 6px 24px #b3b3b3; transform: translateY(-4px) scale(1.03);
-	}
-	.vruby-card h3 {
-		color: #0067B8; font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: bold; margin-top: 0;
-	}
-	.vruby-card a {
-		color: #0067B8; text-decoration: none; font-weight: 500;
-	}
-	.vruby-card a:hover { text-decoration: underline; }
-	.vruby-next-steps {
-		background: #F3F2F1; border-radius: 8px; padding: 1.5em 1.5em 1.2em 1.5em; margin-top: 2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-next-steps h2 {
-		font-size: 1.2em; color: #222; font-weight: bold; margin-top: 0;
-	}
-	.vruby-next-steps a { color: #0067B8; text-decoration: none; }
-	.vruby-next-steps a:hover { text-decoration: underline; }
-</style>
 
-<div class="vruby-breadcrumb">
-	<a href="../Dashboard.md">Home</a> &gt; <a href="../LearningPaths/README.md">Learning Paths</a> &gt; VR
-</div>
+# 🥽 Virtual Reality (VR) Learning Path
 
-<div class="vruby-vr-header">Virtual Reality (VR) Learning Path</div>
-<div class="vruby-vr-desc">Create immersive VR experiences with Unity & XR plugins in 12 weeks. This path guides you from setup to a demo-ready VR project.</div>
+Welcome to the **VR Learning Path**!  
+This 12-week track guides you through building immersive VR applications with Unity and XR plugins. You’ll start with setup, move into interactive projects, and finish with a polished VR experience.
 
 ---
 
-## Resources
-<div class="vruby-card-row">
-	<div class="vruby-card">
-		<h3>Unity XR Plugin Docs</h3>
-		<p>Official Unity documentation for XR plugin architecture and setup.</p>
-		<a href="https://docs.unity3d.com/Manual/XRPluginArchitecture.html">Unity XR Docs</a>
-	</div>
-	<div class="vruby-card">
-		<h3>Oculus VR Introduction</h3>
-		<p>Get started with Oculus VR development and device setup.</p>
-		<a href="https://developer.oculus.com/">Oculus VR Docs</a>
-	</div>
-	<div class="vruby-card">
-		<h3>XR Interaction Toolkit Docs</h3>
-		<p>Unity’s toolkit for VR interactions: grabbing, teleporting, and more.</p>
-		<a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest">XR Toolkit Docs</a>
-	</div>
-	<div class="vruby-card">
-		<h3>OpenXR Overview</h3>
-		<p>Open standard for VR/AR hardware and software interoperability.</p>
-		<a href="https://www.khronos.org/openxr/">OpenXR Docs</a>
-	</div>
-	<div class="vruby-card">
-		<h3>Photon Unity Networking</h3>
-		<p>Networking solutions for multiplayer VR experiences in Unity.</p>
-		<a href="https://www.photonengine.com/pun">Photon Docs</a>
-	</div>
-	<div class="vruby-card">
-		<h3>Unity Build Settings Guide</h3>
-		<p>How to build and deploy VR apps for multiple platforms.</p>
-		<a href="https://docs.unity3d.com/Manual/BuildSettings.html">Build Settings Guide</a>
-	</div>
-</div>
-
-<div class="vruby-next-steps">
-	<h2>Next steps</h2>
-	<ul>
-		<li>Start with the <a href="https://docs.unity3d.com/Manual/XRPluginArchitecture.html">Unity XR Plugin Docs</a></li>
-		<li>Build a basic VR scene and test on a real device</li>
-		<li>Try the XR Interaction Toolkit for hands-on VR controls</li>
-		<li>Move on to <a href="../AR/README.md">AR Path</a> or <a href="../AI/README.md">AI Path</a> when ready</li>
-	</ul>
-</div>
+## 🎯 Learning Objectives
+By completing this path, you will:
+- Understand **VR concepts, safety, and user comfort**.  
+- Set up **Unity XR Plugin, OpenXR, and Oculus tools**.  
+- Build interactive VR scenes with **locomotion, grabbing, teleporting, and UI**.  
+- Optimize VR performance and design for comfort.  
+- Deliver a final **multiplayer or simulation VR project**.  
 
 ---
 
-> [!TIP]
-> Comfort matters in VR — always aim for 72+ FPS to avoid motion sickness.
----
-title: "Virtual Reality (VR) Learning Path"
-description: "Create immersive VR experiences with Unity & XR plugins in 12 weeks."
-topic: "overview"
-last_updated: "2025-09-11"
-author: "vRuby Team"
-contributors: []
-keywords: ["VR", "Learning Paths", "vRuby"]
-sidebar_label: "VR Path"
-toc: true
-hide_title: false
-product: "vRuby LMS"
-version: "v1"
----
+## 📅 12-Week VR Path Structure
 
-# Virtual Reality (VR) Learning Path
-
-Welcome to the VR Path. In this track, you’ll learn to create immersive VR experiences with Unity & XR plugins in 12 weeks. By the end, you’ll demo a VR project ready for real users.
-
-## What you’ll learn
-- VR concepts and safety
-- Unity XR Plugin setup
-- Building, optimizing, and deploying VR apps
-
-## Beginner (Weeks 1–2)
-**Learning outcome:** Explore VR basics and setup Unity XR.
-
-### Topics covered
-- What is VR? (concepts & safety)
-- Unity XR Plugin setup
-- Basic locomotion & VR camera rig
-
-### Mini task
-Load a VR scene where you can move around.
-
-### Resources
-- [Unity XR Plugin Docs](https://docs.unity3d.com/Manual/XRPluginArchitecture.html)
-- [Oculus VR Introduction](https://developer.oculus.com/)
-
-## Intermediate (Weeks 3–6)
-**Learning outcome:** Build interactive VR experiences.
-
-### Topics covered
-- XR Interaction Toolkit (grabbing, teleporting)
-- VR UI (menus, HUDs, buttons)
-- Performance optimization basics
-
-### Project
-Create a VR mini-game → pick up objects, score points, and restart.
-
-### Resources
-- [XR Interaction Toolkit Docs](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest)
-- [OpenXR Overview](https://www.khronos.org/openxr/)
-
-## Advanced (Weeks 7–12)
-**Learning outcome:** Build multiplayer VR & optimize for deployment.
-
-### Topics covered
-- Multiplayer basics (Photon / Netcode for Unity)
-- VR analytics & playtesting
-- Building & packaging VR apps
-
-### Capstone project
-A polished VR multiplayer or simulation experience.
-
-### Resources
-- [Photon Unity Networking](https://www.photonengine.com/pun)
-- [Unity Build Settings Guide](https://docs.unity3d.com/Manual/BuildSettings.html)
-
-> [!TIP]
-> Comfort matters in VR — always aim for 72+ FPS to avoid motion sickness.
+| Phase            | Weeks  | Focus Area                  | Example Milestone             |
+|------------------|--------|-----------------------------|-------------------------------|
+| **Beginner**     | 1–2    | VR basics & Unity XR setup  | Load a VR scene with locomotion |
+| **Intermediate** | 3–6    | Interactions & UI/UX        | Create a VR mini-game         |
+| **Advanced**     | 7–12   | Multiplayer & optimization  | Final VR multiplayer demo     |
 
 ---
 
-## Related
-- [Learning Paths Overview](../LearningPaths/README.md)
-- [AR Path](../AR/README.md)
-- [AI Path](../AI/README.md)
-- [Onboarding](../Onboarding/README.md)
+## 🧪 Sample Projects
+- **VR Art Gallery** → Walk through and interact with exhibits.  
+- **VR Escape Room** → Solve puzzles in an immersive environment.  
+- **Multiplayer Mini-Game** → Score points, compete, and restart.  
+
+---
+
+## 🛠️ Core Resources
+- [Unity XR Plugin Docs](https://docs.unity3d.com/Manual/XRPluginArchitecture.html) — Setup XR framework.  
+- [Oculus Developer Docs](https://developer.oculus.com/) — Oculus setup and dev guide.  
+- [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest) — VR controls & interactions.  
+- [OpenXR Overview](https://www.khronos.org/openxr/) — Cross-platform VR/AR standard.  
+- [Photon Networking](https://www.photonengine.com/pun) — Multiplayer networking solutions.  
+- [Unity Build Settings Guide](https://docs.unity3d.com/Manual/BuildSettings.html) — Deployment for different platforms.  
+
+---
+
+## ✅ Outcomes
+By the end of this VR Path, you will:
+- Explain **core VR concepts and comfort guidelines**.  
+- Build VR apps with locomotion, grabbing, teleporting, and UI.  
+- Optimize for **smooth performance (72+ FPS target)**.  
+- Implement multiplayer features with Photon/Netcode.  
+- Deliver a **demo-ready VR project** suitable for real users.  
+
+---
+
+## 📌 Next Steps
+- Start with [Unity XR Plugin Docs](https://docs.unity3d.com/Manual/XRPluginArchitecture.html).  
+- Build your first **VR scene with locomotion**.  
+- Progress to the XR Interaction Toolkit for hands-on VR controls.  
+- Submit weekly updates in the [Progress Form](../Forms/Weekly_Progress.md).  
+- When complete, explore the [AR Path](../AR/README.md) or [AI Path](../AI/README.md).  
+
+---
+
+> **Tip:** Comfort matters in VR — always design for **72+ FPS** to reduce motion sickness.
 
