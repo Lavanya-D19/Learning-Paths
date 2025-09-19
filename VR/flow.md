@@ -1,7 +1,7 @@
-# AI Learning Flow
+# VR Learning Flow
 
-Step 1 → Read AI Introduction  
-Step 2 → Install Python + Jupyter Notebook  
-Step 3 → Run your first AI model  
-Step 4 → Try a Hugging Face model  
-Step 5 → Share insights with your mentor
+Step 1 → Read VR Introduction  
+Step 2 → Install Unity + XR Plugin  
+Step 3 → Create your first VR scene  
+Step 4 → Add interactions with XR Toolkit  
+Step 5 → Share demo with your mentor
