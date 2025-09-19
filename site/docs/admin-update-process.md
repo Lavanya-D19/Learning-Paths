@@ -50,24 +50,12 @@ It ensures updates are done consistently, safely, and professionally.
 ## 📝 Example Commit Flow
 
 ```bash
-# Good commit messages
-git commit -m "feat(docs): add new section on AI tools"
-git commit -m "fix(docs): correct typo in VR policy"
-git commit -m "chore(docs): update version to v1.2"
+git pull origin main
+# ... make changes ...
+git add .
+git commit -m "feat(docs): update admin process"
+git push origin main
 ```
-
----
-
-## 📅 Update Schedule
-- **Monthly**: Review and update all sections.  
-- **Quarterly**: Major content review (AI/AR/VR).  
-- **Yearly**: Policy and compliance review.  
-
----
-
-## 🔗 Related Links
-- [Admin Update Log](ADMIN_Update_Log.md)  
-- [Documentation Standards](Documentation-Standards.md)
 
 ---
 
