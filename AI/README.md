@@ -1,4 +1,3 @@
----
 title: "AI / Machine Learning Learning Path"
 description: "Transform from beginner to advanced ML practitioner in 12 weeks with hands-on projects."
 topic: "overview"
@@ -11,6 +10,112 @@ toc: true
 hide_title: false
 product: "vRuby LMS"
 version: "v1.3"
+
+**Home** → **[Learning Paths](../LearningPaths/README.md)** → **AI / Machine Learning**
+
+![AI/ML Hero Banner](/img/ai-ml-hero.jpeg "Explore AI & Machine Learning at vRuby")
+
+# 🤖 AI / Machine Learning Learning Path
+
+Welcome to the **AI/ML track** at vRuby!  
+Across ~12 weeks you’ll learn Python, ML fundamentals, model training, and deployment — with a focus on **hands-on projects** and **responsible AI**.
+
+
+## 🚀 Quick Start (Week 0–1)
+
+1. Install Python 3.11+ and set up a virtual environment.  
+2. Finish the **Python refresher** below.  
+3. Skim the **ML Crash Course** and take notes.  
+4. Join the **#ai-ml** Discord channel.
+
+:::tip Pro tip
+Stay consistent: 60–90 minutes **daily** beats weekend marathons.
+:::
+
+
+## 📚 Resource Library (card style)
+
+### 🎓 Foundations
+| 📘 Learn Python | 🎥 ML Crash Course |
+|---|---|
+| Basics of Python for ML | Hands-on ML with videos + exercises |
+| [Learn Python](https://www.learnpython.org/) | [ML Crash Course](https://developers.google.com/machine-learning/crash-course) |
+
+### ⚙️ Core ML
+| � Scikit-Learn | 🧠 TensorFlow |
+|---|---|
+| Train/test, pipelines, metrics | Deep learning workflows |
+| [Scikit-Learn Docs](https://scikit-learn.org/stable/) | [TensorFlow Tutorials](https://www.tensorflow.org/tutorials) |
+
+### 🚀 Deployment & Ethics
+| ⚡ FastAPI | 🧑‍⚖️ Responsible AI |
+|---|---|
+| Build/serve models via API | Fairness, bias, safe AI |
+| [FastAPI Docs](https://fastapi.tiangolo.com/) | [Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/) |
+
+
+## ✅ Checklist Overview
+
+
+
+## 🧭 Next Steps
+
+
+
+## 📆 12-Week Milestone Plan
+
+<details>
+<summary><b>Open 12-Week Plan</b></summary>
+
+**Weeks 1–2 — Foundations**  
+:::success Outcome
+By Week 2 → You can load, clean, and visualize data.
+:::
+
+**Weeks 3–4 — Classic ML**  
+:::success Outcome
+By Week 4 → You can train & evaluate 3 ML models.
+:::
+
+**Weeks 5–6 — Pipelines & Tuning**  
+:::success Outcome
+By Week 6 → You can tune & save a model properly.
+:::
+
+**Weeks 7–8 — Serving Models**  
+:::success Outcome
+By Week 8 → You can deploy a working prediction API.
+:::
+
+**Weeks 9–10 — Deep Learning**  
+:::success Outcome
+By Week 10 → You can build/train a small deep learning model.
+:::
+
+**Weeks 11–12 — Responsible AI & Capstone**  
+:::success Outcome
+By Week 12 → You complete a capstone with README + API demo.
+:::
+</details>
+
+
+## 📝 Progress & Reporting
+
+:::info Weekly Rhythm
+Every **Friday**: push code, update README, and write 3–5 bullet notes on what you learned.
+:::
+
+
+> [!TIP]
+> Post progress in your **Onboarding Checklist Issue** each week.  
+> Consistency matters more than speed.
+---
+title: "AI / Machine Learning Learning Path"
+description: "Transform from beginner to advanced ML practitioner in 12 weeks with hands-on projects."
+sidebar_label: "AI/ML Path"
+toc: true
+hide_title: false
+last_updated: "2025-09-22"
 ---
 
 **Home** → **[Learning Paths](../LearningPaths/README.md)** → **AI / Machine Learning**
@@ -37,7 +142,7 @@ Stay consistent: 60–90 minutes **daily** beats weekend marathons.
 
 ---
 
-## 📚 Resource Library (card style)
+## 📚 Resource Library
 
 ### 🎓 Foundations
 | 📘 Learn Python | 🎥 ML Crash Course |
@@ -65,7 +170,7 @@ Stay consistent: 60–90 minutes **daily** beats weekend marathons.
 - ✅ First ML model trained (scikit-learn)  
 - ✅ Model evaluated (accuracy, precision/recall, confusion matrix)  
 - ✅ Basic API built with FastAPI to serve predictions  
-- ✅ Read **Responsible AI** primer and add mitigations to project  
+- ✅ Read **Responsible AI** primer and add mitigations to project
 
 ---
 
