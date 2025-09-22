@@ -36,7 +36,7 @@ By the end of your first week, you’ll be fully onboarded and ready to begin yo
 ---
 
 ## 📚 Resources
-- [Dashboard](../Dashboard.md) — Central hub for LMS.  
+- [Dashboard](../dashboard.md) — Central hub for LMS.  
 - [Learning Paths Overview](../LearningPaths/README.md).  
 - [AR Path](../AR/README.md).  
 - [VR Path](../VR/README.md).  

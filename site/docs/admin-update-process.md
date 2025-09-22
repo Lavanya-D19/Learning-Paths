@@ -33,7 +33,7 @@ It ensures updates are done consistently, safely, and professionally.
    - Ensure front-matter metadata is updated (`last_updated`).  
 
 4. **Update logs**  
-   - Add a new entry in [Admin Update Log](ADMIN_Update_Log.md).  
+   - Add a new entry in [Admin Update Log](admin-update-log.md).  
    - Increment version number if major content changes.  
 
 5. **Commit properly**  

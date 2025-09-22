@@ -12,6 +12,10 @@ product: "vRuby LMS"
 version: "v1.3"
 ---
 
+<img src="./assets/vr-experience.png" alt="VR Experience" className="modern-image" />
+
+Welcome to the **vRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
+
 # 🌐 vRuby Learning Hub  
 *Learning for everyone, everywhere.*
 
@@ -19,7 +23,6 @@ version: "v1.3"
 
 Welcome to the **vRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
 
----
 
 ## 🔎 Explore Learning Paths
 - 📱 **[AR Path](AR/README.md)** — AR Foundation & Vuforia, 12-week build.  

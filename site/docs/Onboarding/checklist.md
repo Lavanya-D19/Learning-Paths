@@ -29,7 +29,7 @@ Tick off each task as you complete it.
 ---
 
 ## 📚 Learning Orientation
-- [ ] Review the [Dashboard](../Dashboard.md).  
+- [ ] Review the [Dashboard](../dashboard.md).  
 - [ ] Read the [Onboarding Guide](README.md).  
 - [ ] Go through [Policies](Policies.md).  
 - [ ] Explore [Learning Paths Overview](../LearningPaths/README.md).  

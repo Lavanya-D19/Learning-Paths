@@ -15,7 +15,7 @@ version: "v1.2"
 # 🔄 Migration Log
 
 This log records **major migrations or structural changes** in the vRuby LMS.  
-It is separate from the [Admin Update Log](ADMIN_Update_Log.md), focusing only on **system-wide moves, reorganizations, or framework changes**.
+It is separate from the [Admin Update Log](admin-update-log.md), focusing only on **system-wide moves, reorganizations, or framework changes**.
 
 ---
 

@@ -20,12 +20,12 @@ This repo is the **single source of truth** for onboarding, structured training,
 ---
 
 ## 🚀 Quick Start
-1. Open the **[Dashboard](Dashboard.md)**.  
+1. Open the **[Dashboard](dashboard.md)**.  
 2. Complete the **[Onboarding Guide](Onboarding/README.md)**.  
 3. Pick your **Learning Path**:  
-   - [AR Path](AR/README.md)  
-   - [VR Path](VR/README.md)  
-   - [AI/ML Path](AI/README.md)  
+  - [AR Path](AR/README.md)  
+  - [VR Path](VR/README.md)  
+  - [AI/ML Path](AI/README.md)  
 
 ---
 

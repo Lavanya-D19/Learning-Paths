@@ -47,9 +47,9 @@ Choose your track based on your role and interest:
 
 ## 📂 Resources
 - [Documentation Standards](Documentation-Standards.md)  
-- [Admin Update Process](ADMIN_Update_Process.md)  
-- [Admin Update Log](ADMIN_Update_Log.md)  
-- [Migration Log](MIGRATION_LOG.md)  
+- [Admin Update Process](admin-update-process.md)  
+- [Admin Update Log](admin-update-log.md)  
+- [Migration Log](migration-log.md)  
 
 ---
 

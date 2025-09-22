@@ -6,7 +6,7 @@ It ensures a clear audit trail of **versions, PRs, commits, and prompts used**.
 ---
 
 ## 📝 How to Use
-- On **Day 1 of every month at 10:00 AM IST**, run the update process (see [ADMIN_Update_Process.md](./ADMIN_Update_Process.md)).
+- On **Day 1 of every month at 10:00 AM IST**, run the update process (see [ADMIN_Update_Process.md](./admin-update-process.md)).
 - After committing changes, add a new log entry here at the **top of the file**.
 - Each entry must include:
   - Section(s) updated

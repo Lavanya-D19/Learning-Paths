@@ -42,7 +42,7 @@ Example:
 ## ✅ Output
 - All `README.md` files show the **latest version and date**.  
 - Interns/employees always follow the **master copy** in GitHub Pages.  
-- Admins must log updates in [`ADMIN_Update_Log.md`](./ADMIN_Update_Log.md).  
+- Admins must log updates in [`ADMIN_Update_Log.md`](./admin-update-log.md).  
 
 ---
 
@@ -77,4 +77,4 @@ Safety Rule: **Do not overwrite old files. Always bump version + log changes in 
 
 ## 🔗 Next Step
 After every update, add details (PR link, commit hash, prompt used) in  
-[`ADMIN_Update_Log.md`](./ADMIN_Update_Log.md).
+[`ADMIN_Update_Log.md`](./admin-update-log.md).

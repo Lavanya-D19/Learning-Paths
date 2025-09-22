@@ -66,6 +66,7 @@ const config: Config = {
     ],
   ],
 
+  themes: ['@docusaurus/theme-mermaid'],
   themeConfig: {
     image: 'img/social-card.png',
     navbar: {
