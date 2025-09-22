@@ -1,122 +1,143 @@
-<!-- Microsoft Learn-Inspired Styles for AI Path -->
-<style>
-	.vruby-breadcrumb {
-		font-size: 0.98em; color: #605E5C; margin-bottom: 1.2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-ai-header {
-		font-size: 2.1em; font-weight: bold; color: #222;
-		font-family: 'Segoe UI', 'Arial', sans-serif; margin-bottom: 0.3em;
-	}
-	.vruby-ai-desc {
-		font-size: 1.15em; color: #444; margin-bottom: 1.5em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-card-row {
-		display: flex; flex-wrap: wrap; gap: 2em; margin-bottom: 2em;
-	}
-	.vruby-card {
-		background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #e0e0e0;
-		padding: 1.5em; min-width: 220px; flex: 1 1 260px;
-		transition: box-shadow 0.2s, transform 0.2s;
-	}
-	.vruby-card:hover {
-		box-shadow: 0 6px 24px #b3b3b3; transform: translateY(-4px) scale(1.03);
-	}
-	.vruby-card h3 {
-		color: #0067B8; font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: bold; margin-top: 0;
-	}
-	.vruby-card a {
-		color: #0067B8; text-decoration: none; font-weight: 500;
-	}
-	.vruby-card a:hover { text-decoration: underline; }
-	.vruby-next-steps {
-		background: #F3F2F1; border-radius: 8px; padding: 1.5em 1.5em 1.2em 1.5em; margin-top: 2em;
-		font-family: 'Segoe UI', 'Arial', sans-serif;
-	}
-	.vruby-next-steps h2 {
-		font-size: 1.2em; color: #222; font-weight: bold; margin-top: 0;
-	}
-	.vruby-next-steps a { color: #0067B8; text-decoration: none; }
-	.vruby-next-steps a:hover { text-decoration: underline; }
-</style>
 ---
-title: "Artificial Intelligence / Machine Learning (AI/ML) Learning Path"
-description: "A 12-week path to learn Python, machine learning workflows, and AI integration with XR."
-topic: "AI/ML"
-last_updated: "2025-09-19"
+title: "AI / Machine Learning Learning Path"
+description: "Transform from beginner to advanced ML practitioner in 12 weeks with hands-on projects."
+topic: "overview"
+last_updated: "2025-09-22"
 author: "vRuby Team"
 contributors: []
-keywords: ["AI", "Machine Learning", "Python", "TensorFlow", "Learning Paths", "vRuby"]
+keywords: ["AI", "ML", "Learning Paths", "vRuby"]
 sidebar_label: "AI/ML Path"
 toc: true
 hide_title: false
 product: "vRuby LMS"
-version: "v1.2"
+version: "v1.3"
 ---
 
+**Home** → **[Learning Paths](../LearningPaths/README.md)** → **AI / Machine Learning**
 
-<div class="vruby-breadcrumb">
-	<a href="../Dashboard.md">Home</a> &gt; <a href="../LearningPaths/README.md">Learning Paths</a> &gt; AI
-</div>
+![AI/ML Hero Banner](/img/ai-ml-hero.jpeg "Explore AI & Machine Learning at vRuby")
 
-<div class="vruby-ai-header">AI / Machine Learning Learning Path</div>
-<div class="vruby-ai-desc">Transform from beginner to advanced ML practitioner in 12 weeks with hands-on projects. Build and deploy real ML models and understand how AI is applied in business.</div>
+# 🤖 AI / Machine Learning Learning Path
+
+Welcome to the **AI/ML track** at vRuby!  
+Across ~12 weeks you’ll learn Python, ML fundamentals, model training, and deployment — with a focus on **hands-on projects** and **responsible AI**.
+
+---
+
+## 🚀 Quick Start (Week 0–1)
+
+1. Install Python 3.11+ and set up a virtual environment.  
+2. Finish the **Python refresher** below.  
+3. Skim the **ML Crash Course** and take notes.  
+4. Join the **#ai-ml** Discord channel.
+
+:::tip Pro tip
+Stay consistent: 60–90 minutes **daily** beats weekend marathons.
+:::
 
 ---
 
+## 📚 Resource Library (card style)
 
-## Resources
-<div class="vruby-card-row">
-	<div class="vruby-card">
-		<h3>Learn Python</h3>
-		<p>Interactive Python tutorials for beginners and data scientists.</p>
-		<a href="https://www.learnpython.org/">Learn Python</a>
-	</div>
-	<div class="vruby-card">
-		<h3>Google ML Crash Course</h3>
-		<p>Hands-on introduction to machine learning with video lectures and exercises.</p>
-		<a href="https://developers.google.com/machine-learning/crash-course">ML Crash Course</a>
-	</div>
-	<div class="vruby-card">
-		<h3>Scikit-Learn Documentation</h3>
-		<p>Comprehensive guide to machine learning in Python with scikit-learn.</p>
-		<a href="https://scikit-learn.org/stable/">Scikit-Learn Docs</a>
-	</div>
-	<div class="vruby-card">
-		<h3>FastAPI Docs</h3>
-		<p>Build and deploy ML models as APIs using FastAPI.</p>
-		<a href="https://fastapi.tiangolo.com/">FastAPI Docs</a>
-	</div>
-	<div class="vruby-card">
-		<h3>AI Fairness Resources</h3>
-		<p>Best practices and tools for responsible and ethical AI.</p>
-		<a href="https://ai.google/responsibilities/responsible-ai-resources/">AI Fairness</a>
-	</div>
-	<div class="vruby-card">
-		<h3>TensorFlow Tutorials</h3>
-		<p>Official TensorFlow tutorials for deep learning and ML workflows.</p>
-		<a href="https://www.tensorflow.org/tutorials">TensorFlow Tutorials</a>
-	</div>
-	<div class="vruby-card">
-		<h3>Responsible AI Principles</h3>
-		<p>Guidelines and principles for building responsible AI systems.</p>
-		<a href="https://ai.google/responsibilities/responsible-ai-practices/">Responsible AI</a>
-	</div>
-</div>
+### 🎓 Foundations
+| 📘 Learn Python | 🎥 ML Crash Course |
+|---|---|
+| Basics of Python for ML | Hands-on ML with videos + exercises |
+| [Learn Python](https://www.learnpython.org/) | [ML Crash Course](https://developers.google.com/machine-learning/crash-course) |
 
-<div class="vruby-next-steps">
-	<h2>Next steps</h2>
-	<ul>
-		<li>Start with the <a href="https://www.learnpython.org/">Python tutorials</a> if you’re new to coding</li>
-		<li>Complete the <a href="https://developers.google.com/machine-learning/crash-course">ML Crash Course</a></li>
-		<li>Build and deploy a simple ML model using scikit-learn and FastAPI</li>
-		<li>Explore AI fairness and responsible AI resources</li>
-		<li>Move on to <a href="../AR/README.md">AR Path</a> or <a href="../VR/README.md">VR Path</a> when ready</li>
-	</ul>
-</div>
+### ⚙️ Core ML
+| 📊 Scikit-Learn | 🧠 TensorFlow |
+|---|---|
+| Train/test, pipelines, metrics | Deep learning workflows |
+| [Scikit-Learn Docs](https://scikit-learn.org/stable/) | [TensorFlow Tutorials](https://www.tensorflow.org/tutorials) |
+
+### 🚀 Deployment & Ethics
+| ⚡ FastAPI | 🧑‍⚖️ Responsible AI |
+|---|---|
+| Build/serve models via API | Fairness, bias, safe AI |
+| [FastAPI Docs](https://fastapi.tiangolo.com/) | [Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/) |
 
 ---
+
+## ✅ Checklist Overview
+
+- ✅ Python set up and basics revised  
+- ✅ First ML model trained (scikit-learn)  
+- ✅ Model evaluated (accuracy, precision/recall, confusion matrix)  
+- ✅ Basic API built with FastAPI to serve predictions  
+- ✅ Read **Responsible AI** primer and add mitigations to project  
+
+---
+
+## 🧭 Next Steps
+
+- Start with **[Learn Python](https://www.learnpython.org/)** if you’re new.  
+- Complete **[Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)**.  
+- Build a simple model in **scikit-learn** (e.g., Iris or Titanic).  
+- Wrap it with **[FastAPI](https://fastapi.tiangolo.com/)** and expose `/predict`.  
+- Read **[AI Fairness](https://ai.google/responsibilities/responsible-ai-resources/)** and add one mitigation (balanced dataset, threshold tuning).  
+- When ready, explore **[AR Path](../AR/README.md)** or **[VR Path](../VR/README.md)**.
+
+---
+
+## 📆 12-Week Milestone Plan
+
+<details>
+<summary><b>Open 12-Week Plan</b></summary>
+
+**Weeks 1–2 — Foundations**  
+- Python, NumPy/Pandas, plotting, data cleaning  
+- Mini-project: EDA on a CSV  
+:::success Outcome
+By Week 2 → You can load, clean, and visualize data.
+:::
+
+**Weeks 3–4 — Classic ML**  
+- Train/test split, feature engineering, Random Forest, SVM  
+:::success Outcome
+By Week 4 → You can train & evaluate 3 ML models.
+:::
+
+**Weeks 5–6 — Pipelines & Tuning**  
+- Pipelines, GridSearchCV, model persistence  
+:::success Outcome
+By Week 6 → You can tune & save a model properly.
+:::
+
+**Weeks 7–8 — Serving Models**  
+- FastAPI endpoints, schema validation, unit tests  
+:::success Outcome
+By Week 8 → You can deploy a working prediction API.
+:::
+
+**Weeks 9–10 — Deep Learning**  
+- TensorFlow basics, neural nets, early stopping  
+:::success Outcome
+By Week 10 → You can build/train a small deep learning model.
+:::
+
+**Weeks 11–12 — Responsible AI & Capstone**  
+- Bias checks, documentation, model card  
+:::success Outcome
+By Week 12 → You complete a capstone with README + API demo.
+:::
+</details>
+
+---
+
+## 📝 Progress & Reporting
+
+:::info Weekly Rhythm
+Every **Friday**: push code, update README, and write 3–5 bullet notes on what you learned.
+:::
+
+- [ ] Week 1–2 ✔️  
+- [ ] Week 3–4  
+- [ ] Week 5–6  
+- [ ] Week 7–8  
+- [ ] Week 9–10  
+- [ ] Week 11–12  
 
 > [!TIP]
-> Share your weekly progress in your <b>Onboarding Checklist Issue</b>. Consistency matters more than speed.
+> Post progress in your **Onboarding Checklist Issue** each week.  
+> Consistency matters more than speed.

@@ -1,12 +1,4 @@
 /* Modern image styling for Microsoft-style visualization */
-.modern-image {
-  display: block;
-  margin: 0 auto 1.5rem auto;
-  border-radius: 16px;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.12);
-  max-width: 480px;
-  width: 100%;
-}
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to

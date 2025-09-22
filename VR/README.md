@@ -1,4 +1,3 @@
----
 title: "Virtual Reality (VR) Learning Path"
 description: "Create immersive VR experiences with Unity and XR plugins in 12 weeks."
 topic: "VR"
@@ -11,24 +10,16 @@ toc: true
 hide_title: false
 product: "vRuby LMS"
 version: "v1.2"
----
 
 # 🥽 Virtual Reality (VR) Learning Path
 
 Welcome to the **VR Learning Path**!  
 This 12-week track guides you through building immersive VR applications with Unity and XR plugins. You’ll start with setup, move into interactive projects, and finish with a polished VR experience.
 
----
 
 ## 🎯 Learning Objectives
 By completing this path, you will:
-- Understand **VR concepts, safety, and user comfort**.  
-- Set up **Unity XR Plugin, OpenXR, and Oculus tools**.  
-- Build interactive VR scenes with **locomotion, grabbing, teleporting, and UI**.  
-- Optimize VR performance and design for comfort.  
-- Deliver a final **multiplayer or simulation VR project**.  
 
----
 
 ## 📅 12-Week VR Path Structure
 
@@ -38,43 +29,89 @@ By completing this path, you will:
 | **Intermediate** | 3–6    | Interactions & UI/UX        | Create a VR mini-game         |
 | **Advanced**     | 7–12   | Multiplayer & optimization  | Final VR multiplayer demo     |
 
----
 
 ## 🧪 Sample Projects
-- **VR Art Gallery** → Walk through and interact with exhibits.  
-- **VR Escape Room** → Solve puzzles in an immersive environment.  
-- **Multiplayer Mini-Game** → Score points, compete, and restart.  
 
----
 
 ## 🛠️ Core Resources
-- [Unity XR Plugin Docs](https://docs.unity3d.com/Manual/XRPluginArchitecture.html) — Setup XR framework.  
-- [Oculus Developer Docs](https://developer.oculus.com/) — Oculus setup and dev guide.  
-- [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest) — VR controls & interactions.  
-- [OpenXR Overview](https://www.khronos.org/openxr/) — Cross-platform VR/AR standard.  
-- [Photon Networking](https://www.photonengine.com/pun) — Multiplayer networking solutions.  
-- [Unity Build Settings Guide](https://docs.unity3d.com/Manual/BuildSettings.html) — Deployment for different platforms.  
+
+
+## ✅ Outcomes
+By the end of this VR Path, you will:
+
+
+## 📌 Next Steps
+
+
+> **Tip:** Comfort matters in VR — always design for **72+ FPS** to reduce motion sickness.
+---
+title: "Virtual Reality (VR) Learning Path"
+description: "Unity XR, interactions, and comfort design. Demo-ready in 12 weeks."
+toc: true
+---
+
+# Virtual Reality (VR) Learning Path
+
+Build an **interactive VR scene** with locomotion, grabbing, and basic UI using Unity XR.
+
+[![Syllabus](https://img.shields.io/badge/View-Syllabus-2b6cb0)](#-syllabus)
+[![Resources](https://img.shields.io/badge/Open-Core_Resources-805ad5)](#-core-resources)
+[![Checklist](https://img.shields.io/badge/Track-Weekly_Checklist-2f855a)](../Forms/Weekly_Progress.md)
 
 ---
 
 ## ✅ Outcomes
-By the end of this VR Path, you will:
-- Explain **core VR concepts and comfort guidelines**.  
-- Build VR apps with locomotion, grabbing, teleporting, and UI.  
-- Optimize for **smooth performance (72+ FPS target)**.  
-- Implement multiplayer features with Photon/Netcode.  
-- Deliver a **demo-ready VR project** suitable for real users.  
+- Configure **OpenXR** + XR Interaction Toolkit  
+- Implement **teleport / snap turn / grab**  
+- Record a **60-sec VR demo** of interactions
+
+:::info Time & Tools
+**Duration:** 12 weeks · **Time:** 6–8 hrs/week · **Tools:** Unity LTS, OpenXR, XR Interaction Toolkit
+:::
 
 ---
 
-## 📌 Next Steps
-- Start with [Unity XR Plugin Docs](https://docs.unity3d.com/Manual/XRPluginArchitecture.html).  
-- Build your first **VR scene with locomotion**.  
-- Progress to the XR Interaction Toolkit for hands-on VR controls.  
-- Submit weekly updates in the [Progress Form](../Forms/Weekly_Progress.md).  
-- When complete, explore the [AR Path](../AR/README.md) or [AI Path](../AI/README.md).  
+## 🧭 At a glance
+| Level | Focus | Deliverable |
+|---|---|---|
+| Beginner | Setup + XR rig | “Hello VR” scene |
+| Intermediate | Interaction set | Mini-demo |
+| Advanced | Comfort + polish | Final video |
 
 ---
 
-> **Tip:** Comfort matters in VR — always design for **72+ FPS** to reduce motion sickness.
+## � Syllabus
+<details>
+<summary><strong>Weeks 1–4 (Beginner)</strong></summary>
+
+- XR Plugin Management + OpenXR  
+- XR rig, input profiles, controllers  
+- Teleport + snap turn
+
+</details>
+
+<details>
+<summary><strong>Weeks 5–8 (Intermediate)</strong></summary>
+
+- Grab / release, sockets, UI canvases  
+- Interaction layers + haptics  
+- Scene composition
+
+</details>
+
+<details>
+<summary><strong>Weeks 9–12 (Advanced)</strong></summary>
+
+- Comfort design: vignette, movement tuning  
+- Performance: batching, culling  
+- Final capture + README
+
+</details>
+
+---
+
+## 📚 Core Resources
+- **Unity XR Plugin Docs** — Setup & architecture  
+- **XR Interaction Toolkit** — Interactors, interactables  
+- **OpenXR** — Runtimes and profiles
 
