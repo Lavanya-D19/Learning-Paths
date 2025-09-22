@@ -53,14 +53,15 @@ Choose your track based on your role and interest:
 
 ---
 
-## 🔄 Visual Roadmap
+## 🗺️ Visual Roadmap
+
 ```mermaid
 flowchart TD
-  A[Dashboard] --> B[Onboarding]
-  A --> C[Learning Paths]
-  C --> D[AR Path]
-  C --> E[VR Path]
-  C --> F[AI/ML Path]
-  B --> G[Progress + Forms]
-  C --> H[Final Showcase]
+    A[📊 Dashboard] --> B[🎉 Onboarding]
+    A --> C[🚀 Learning Paths]
+    C --> D[📱 AR Path]
+    C --> E[🎮 VR Path]
+    C --> F[🤖 AI/ML Path]
+    B --> G[📋 Progress + Forms]
+    C --> H[🎯 Final Showcase]
 ```

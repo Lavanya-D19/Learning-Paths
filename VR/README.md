@@ -1,117 +1,68 @@
-title: "Virtual Reality (VR) Learning Path"
-description: "Create immersive VR experiences with Unity and XR plugins in 12 weeks."
-topic: "VR"
-last_updated: "2025-09-19"
-author: "vRuby Team"
-contributors: []
-keywords: ["VR", "Learning Paths", "Unity", "XR", "Oculus", "OpenXR", "vRuby"]
-sidebar_label: "VR Path"
-toc: true
-hide_title: false
-product: "vRuby LMS"
-version: "v1.2"
-
-# 🥽 Virtual Reality (VR) Learning Path
-
-Welcome to the **VR Learning Path**!  
-This 12-week track guides you through building immersive VR applications with Unity and XR plugins. You’ll start with setup, move into interactive projects, and finish with a polished VR experience.
-
-
-## 🎯 Learning Objectives
-By completing this path, you will:
-
-
-## 📅 12-Week VR Path Structure
-
-| Phase            | Weeks  | Focus Area                  | Example Milestone             |
-|------------------|--------|-----------------------------|-------------------------------|
-| **Beginner**     | 1–2    | VR basics & Unity XR setup  | Load a VR scene with locomotion |
-| **Intermediate** | 3–6    | Interactions & UI/UX        | Create a VR mini-game         |
-| **Advanced**     | 7–12   | Multiplayer & optimization  | Final VR multiplayer demo     |
-
-
-## 🧪 Sample Projects
-
-
-## 🛠️ Core Resources
-
-
-## ✅ Outcomes
-By the end of this VR Path, you will:
-
-
-## 📌 Next Steps
-
-
-> **Tip:** Comfort matters in VR — always design for **72+ FPS** to reduce motion sickness.
 ---
-title: "Virtual Reality (VR) Learning Path"
-description: "Unity XR, interactions, and comfort design. Demo-ready in 12 weeks."
-toc: true
+title: "VR Learning Path"
+description: "Step-by-step guide to get started with Virtual Reality"
+sidebar_label: "VR"
 ---
 
-# Virtual Reality (VR) Learning Path
+# 🎉 Welcome to vRuby VR Learning
 
-Build an **interactive VR scene** with locomotion, grabbing, and basic UI using Unity XR.
-
-[![Syllabus](https://img.shields.io/badge/View-Syllabus-2b6cb0)](#-syllabus)
-[![Resources](https://img.shields.io/badge/Open-Core_Resources-805ad5)](#-core-resources)
-[![Checklist](https://img.shields.io/badge/Track-Weekly_Checklist-2f855a)](../Forms/Weekly_Progress.md)
+Welcome to the **VR Learning Path**! This guide helps you dive into **Virtual Reality** and create immersive 3D worlds.  
+By the end of this track, you’ll be ready to design, build, and showcase VR projects.
 
 ---
 
-## ✅ Outcomes
-- Configure **OpenXR** + XR Interaction Toolkit  
-- Implement **teleport / snap turn / grab**  
-- Record a **60-sec VR demo** of interactions
+## 💡 Why This Matters
+Virtual Reality is reshaping **training, gaming, design, and healthcare**.  
+By learning VR, you gain the ability to create experiences that feel truly immersive.  
 
-:::info Time & Tools
-**Duration:** 12 weeks · **Time:** 6–8 hrs/week · **Tools:** Unity LTS, OpenXR, XR Interaction Toolkit
+:::tip
+Always test your VR projects with an actual headset to catch issues early.
 :::
 
 ---
 
-## 🧭 At a glance
-| Level | Focus | Deliverable |
-|---|---|---|
-| Beginner | Setup + XR rig | “Hello VR” scene |
-| Intermediate | Interaction set | Mini-demo |
-| Advanced | Comfort + polish | Final video |
+## 🚀 Getting Started
+1. Learn the **basics of VR** (devices, interactions, use cases).  
+2. Install **Unity** + **XR Interaction Toolkit**.  
+3. Create your first **VR scene** with teleportation & interaction.  
+4. Test with a VR headset (Oculus, HTC Vive, etc.).  
+
+:::note
+Even if you don’t have a headset, you can simulate VR in Unity’s play mode.
+:::
 
 ---
 
-## � Syllabus
-<details>
-<summary><strong>Weeks 1–4 (Beginner)</strong></summary>
-
-- XR Plugin Management + OpenXR  
-- XR rig, input profiles, controllers  
-- Teleport + snap turn
-
-</details>
-
-<details>
-<summary><strong>Weeks 5–8 (Intermediate)</strong></summary>
-
-- Grab / release, sockets, UI canvases  
-- Interaction layers + haptics  
-- Scene composition
-
-</details>
-
-<details>
-<summary><strong>Weeks 9–12 (Advanced)</strong></summary>
-
-- Comfort design: vignette, movement tuning  
-- Performance: batching, culling  
-- Final capture + README
-
-</details>
+## 📌 Checklist Overview
+✅ Understand VR fundamentals (hardware, locomotion, UI/UX).  
+✅ Install Unity & XR Toolkit.  
+✅ Build your first VR environment.  
+✅ Add interactions (grabbing, teleporting).  
+✅ Share VR prototype with team.  
 
 ---
 
-## 📚 Core Resources
-- **Unity XR Plugin Docs** — Setup & architecture  
-- **XR Interaction Toolkit** — Interactors, interactables  
-- **OpenXR** — Runtimes and profiles
+## 📚 Resources
+- [Unity XR Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.3/manual/index.html)  
+- [Getting Started with VR](https://developer.oculus.com/)  
+- [Intro to VR Concepts](https://www.ibm.com/topics/virtual-reality)  
+- [VR Sample Project (GitHub)](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples)  
+
+:::info
+Unity’s XR Toolkit is your best starting point for VR — it handles locomotion, grabbing, and interaction out of the box.
+:::
+
+---
+
+## 🎯 Outcomes
+- Learn VR tools and workflows.  
+- Build immersive VR environments.  
+- Add VR interactions and user controls.  
+- Showcase VR projects to team and mentors.  
+
+---
+
+## 🔗 Next Steps
+➡️ Return to the [Dashboard](../Dashboard.md)  
+➡️ Continue with the [AI Path](../AI/README.md) or [AR Path](../AR/README.md)
 
