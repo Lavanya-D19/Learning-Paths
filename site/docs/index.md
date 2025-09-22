@@ -29,7 +29,7 @@ Welcome to the **vRuby Learning Management System (LMS)** — your single place 
 ---
 
 ## 🚀 Quick Start
-1. Open the **[Dashboard](Dashboard.md)**  
+1. Open the **[Dashboard](dashboard.md)**  
 2. Complete **[Onboarding](Onboarding/README.md)**  
 3. Submit your first **[Weekly Progress](Forms/Weekly_Progress.md)**
 
