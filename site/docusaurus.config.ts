@@ -9,28 +9,20 @@ const config: Config = {
   tagline: 'Your gateway to AR/VR, AI, and Business learning paths.',
   favicon: 'img/favicon.ico',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
-  // Set the production url of your site here
+  // GitHub Pages deployment config
   url: 'https://lavanya-d19.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Learning-Paths/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Lavanya-D19', // Your GitHub username.
-  projectName: 'Learning-Paths', // Your repo name.
+  baseUrl: '/Learning-Paths/',       // must have leading + trailing slash
+  organizationName: 'lavanya-d19',   // ✅ lowercase username
+  projectName: 'Learning-Paths',
+  trailingSlash: false,              // ✅ avoids double slashes in URLs
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -45,7 +37,7 @@ const config: Config = {
           routeBasePath: '/', // Serve docs at site root
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Veeruby-Tech/Learning-Paths/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -54,7 +46,7 @@ const config: Config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Veeruby-Tech/Learning-Paths/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -67,6 +59,7 @@ const config: Config = {
   ],
 
   themes: ['@docusaurus/theme-mermaid'],
+
   themeConfig: {
     image: 'img/social-card.png',
     navbar: {
