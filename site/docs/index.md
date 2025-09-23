@@ -1,5 +1,7 @@
 ---
+id: home
 title: "vRuby Learning Hub"
+slug: /
 description: "Homepage for the vRuby LMS — onboarding, learning paths, and resources."
 last_updated: "2025-09-19"
 author: "vRuby Team"
@@ -11,7 +13,6 @@ hide_title: false
 product: "vRuby LMS"
 version: "v1.3"
 ---
-
 
 Welcome to the **vRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
 
