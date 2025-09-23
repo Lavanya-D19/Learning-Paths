@@ -58,7 +58,9 @@ const config: Config = {
     ],
   ],
 
+  // ✅ Enable Mermaid support
   themes: ['@docusaurus/theme-mermaid'],
+  markdown: { mermaid: true },
 
   themeConfig: {
     image: 'img/social-card.png',
