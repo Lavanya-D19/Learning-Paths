@@ -1,27 +1,27 @@
 ---
 id: home
-title: "vRuby Learning Hub"
+title: "VeeRuby Learning Hub"
 slug: /
-description: "Homepage for the vRuby LMS — onboarding, learning paths, and resources."
+description: "Homepage for the VeeRuby LMS — onboarding, learning paths, and resources."
 last_updated: "2025-09-19"
-author: "vRuby Team"
+author: "VeeRuby Team"
 contributors: []
-keywords: ["Homepage", "vRuby LMS", "Onboarding", "Learning Paths", "AR", "VR", "AI/ML"]
+keywords: ["Homepage", "VeeRuby LMS", "Onboarding", "Learning Paths", "AR", "VR", "AI/ML"]
 sidebar_label: "Home"
 toc: false
 hide_title: false
-product: "vRuby LMS"
+product: "VeeRuby LMS"
 version: "v1.3"
 ---
 
-Welcome to the **vRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
+Welcome to the **VeeRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
 
-# 🌐 vRuby Learning Hub  
+# 🌐 VeeRuby Learning Hub  
 *Learning for everyone, everywhere.*
 
-![Immersive VR Learning](/img/home-hero-vr.jpeg "Explore AR, VR, and AI/ML at vRuby")
+![Immersive VR Learning](/img/home-hero-vr.jpeg "Explore AR, VR, and AI/ML at VeeRuby")
 
-Welcome to the **vRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
+Welcome to the **VeeRuby Learning Management System (LMS)** — your single place for onboarding, structured learning paths, and weekly submissions.
 
 
 ## 🔎 Explore Learning Paths

@@ -6,14 +6,14 @@ last_updated: "2025-09-19"
 
 This site is built entirely with Markdown, YAML, and JSON. Use the navigation to explore learning paths, onboarding, resources, and more.
 ---
-title: "vRuby Learning Hub"
+title: "VeeRuby Learning Hub"
 description: "Onboarding, learning paths, and weekly submissions."
 last_updated: "2025-09-22"
 sidebar_label: "Home"
 hide_title: false
 ---
 
-![Hero — vRuby Learning Hub](/img/home-hero-vr.jpeg "Explore AR, VR, and AI/ML at vRuby")
+![Hero — VeeRuby Learning Hub](/img/home-hero-vr.jpeg "Explore AR, VR, and AI/ML at VeeRuby")
 
 > *Learning for everyone, everywhere.*
 
